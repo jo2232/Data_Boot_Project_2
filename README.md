@@ -26,3 +26,10 @@ Project Statement: Our project will be to build a twitter analyzer that takes in
 	-A link to the primary GitHub repository you'll be housing your work in
 
 ## Presentation. May 1st:
+
+
+
+
+
+Input box -> Sent analysis -> mapping & plotting -> display to page
+	  -> Google Scrape -> display to page
