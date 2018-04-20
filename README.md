@@ -3,17 +3,21 @@
 
 ## 
 
-Project Statement: Our project will be to build a twitter analyzer that takes in a term or hashtag, returns location information plotted on a map, an analysis of the tweets, and ...
+Project Statement: Our project will be to build a twitter analyzer that takes in a term or hashtag, returns location information plotted on a map, an analysis of the tweets,
+analyze sentiment analysis and compare it to popularity of the tweet. The app will also search and return news articles and display a gauge of the general
+composite sentiment analysis.
 
 ## To-Do
 
-	-Tweepy API -- Grab geo-data, text, etc and dump
-	-Extra JS Library -- ???
-	-Flask API -- ???
-	-HTML/CSS -- General website build (input term, amount of tweets to check, twitterbot functionality?)
-	-MongoDB/SQL -- Dump Tweepy results to DB
-	-Display - Graphs, charts (Interactive if possible) 
-		(Timeline of tweets, velocity, most common used words, emojis, etc)
+	-Tweepy API -- Grab geo-data, text, sentiment analysis, tweet popularity metrics. 
+	-Google News Scrape -- will search google news for 10-15?? popular news events related to the tweet search term we are analyzing.
+	-Flask API -- This will call both Twitter and Google API Python scripts and load results to the Mongo database.
+	-MongoDB/SQL -- Will hold twitter and google data
+	-Javascript -- Will use to load in MongoDB data and create visuals:
+		1. Geographic Map (leaflet?) that plots location of tweets containing search term
+		2. Page returning news articles and composite sentiment Gauge using the c3.js library
+		3. Scatter plot showing (at least) individual sentiment analysis vs tweet popularity
+	-HTML - TBD how many pages we will use to display/organize our data.
 
 
 ## Due April 24th (Tuesday)
