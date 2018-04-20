@@ -31,5 +31,5 @@ Project Statement: Our project will be to build a twitter analyzer that takes in
 
 
 
-Input box -> Sent analysis -> mapping & plotting -> display to page
-	  -> Google Scrape -> display to page
+#Input box -> Sent analysis -> mapping & plotting -> display to page
+#Input box -> Google Scrape -> display to page
