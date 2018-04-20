@@ -7,9 +7,9 @@ Project Statement: Our project will be to build a twitter analyzer that takes in
 
 ## To-Do
 
-Tweepy API -- Grab geo-data, text, etc and dump
-Extra JS Library -- ???
-Flask API -- ???
-HTML/CSS -- General website build (input term, amount of tweets to check, twitterbot functionality?)
-MongoDB/SQL -- Dump Tweepy results to DB
-Display - Graphs, charts (Interactive if possible)
+-Tweepy API -- Grab geo-data, text, etc and dump
+-Extra JS Library -- ???
+-Flask API -- ???
+-HTML/CSS -- General website build (input term, amount of tweets to check, twitterbot functionality?)
+-MongoDB/SQL -- Dump Tweepy results to DB
+-Display - Graphs, charts (Interactive if possible)
