@@ -17,7 +17,7 @@ Project Statement: Our project will be to build a twitter analyzer that takes in
 
 ## Due April 24th (Tuesday)
 
-You will need to create a 1 page proposal. The proposal should include:
+	You will need to create a 1 page proposal. The proposal should include:
 	-A brief articulation of your chosen topic and rationale
 	-A link to your dataset(s) and a screenshot of the metadata if it exists.
 	-3-4 screenshots of relevant "inspiring" visualizations that frame your creative fodder
