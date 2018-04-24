@@ -9,7 +9,7 @@ composite sentiment analysis.
 
 ## To-Do
 
-	-Tweepy API -- Grab geo-data, text, sentiment analysis, tweet popularity metrics. 
+	-Twitter API -- Grab geo-data, text, sentiment analysis, tweet popularity metrics. 
 	-Google News Scrape -- will search google news for 10-15?? popular news events related to the tweet search term we are analyzing.
 	-Flask API -- This will call both Twitter and Google API Python scripts and load results to the Mongo database.
 	-MongoDB/SQL -- Will hold twitter and google data
@@ -35,5 +35,5 @@ composite sentiment analysis.
 
 
 
-### Input box -> Sent analysis -> mapping & plotting -> display to page
+### Input box -> Sent for analysis -> mapping & plotting -> display to page
 ### Input box -> Google Scrape -> display to page
