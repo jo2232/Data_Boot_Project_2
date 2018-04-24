@@ -3,7 +3,7 @@
 
 ## 
 
-Project Statement: Our project will be to build a twitter analyzer that takes in a specific set of coordinates, or city name, and  returns information regarding the tweet and it's overal sentiment. The app will also search and return news articles and display a gauge of the general composite sentiment analysis. Our hope is that by choosing an area and gathering tweets from it, we can gauge the general sentiment of a city - And if an event is big enough, we may be able to gauge general sentiment of a city for a particular topic (NBA Finals, Active Shooter situation, Hurricanes, etc)
+Project Statement: Our project will be to build a twitter analyzer that takes in a specific set of coordinates, or city name, and  returns information regarding the tweet and it's overal sentiment. The app will also search and return news articles and display a gauge of the general composite sentiment analysis. Our hope is that by choosing an area and gathering tweets from it, we can gauge the general sentiment of a city - And if an event is big enough, we may be able to gauge general sentiment of a city for a particular topic (NBA Finals, Active Shooter situation, Hurricanes, etc). All of this should be as "real time" as the API system allows.
 
 ## To-Do
 
