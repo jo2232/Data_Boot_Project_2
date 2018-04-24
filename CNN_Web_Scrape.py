@@ -56,38 +56,3 @@ print(links)
 print(article_headlines)
 
 
-# In[15]:
-
-
-print(article_list)
-
-
-# In[16]:
-
-
-[h.get('href') for h in article_list if 'string' in h.get('href', '')]
-
-
-# In[17]:
-
-
-links = [a.get('href') for a in article_list]
-
-
-# In[19]:
-
-
-article_headline = [b.get_text() for b in article_list]
-
-
-# In[20]:
-
-
-article_headline
-
-
-# In[18]:
-
-
-links
-
