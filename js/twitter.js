@@ -13,7 +13,7 @@ function createMarkers(response) {
             var lon = response.bounding_box[i][0];
             var sent = response.comp_sent[i]
             sentiments.push(sent)
-            let marker = L.marker([lat, lon]).on("click", gauge())
+            let marker = L.marker([lat, lon])
                 .bindPopup("<img src=" + response.profile_image_url[i] + ">" + "<br>"
                           +  "<h3>" + response.user[i] + "</h3>" 
                           +  "<p>" + response.text[i] + "</p>")

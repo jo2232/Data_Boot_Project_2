@@ -8,16 +8,8 @@ mongo = PyMongo(app)
 
 @app.route('/scrape')
 def scrape():
-    tweepy = mongo.db.tweepy
-    data = tweepy1.twitterize()
-    print(tweepy)
-    tweepy.update(
-        {},
-        data,
-        upsert=True
-        )
     google = mongo.db.google
-    data = google1.numbers()
+    data = google1.scrape_it()
     google.update(
         {},
         data,
@@ -27,9 +19,8 @@ def scrape():
 
 @app.route('/')
 def index():
-    tweepy = mongo.db.tweepy.find_one()
     google = mongo.db.google.find_one()
-    return render_template('index.html', tweepy=tweepy, google=google)
+    return render_template('index.html', google=google)
 
 @app.route('/twitterize')
 def twitterize():

@@ -15,18 +15,14 @@
         <div class="row px-5 py-4">
             <br>
             <p>
-                <a class="btn btn-primary btn-lg" href="/map" role="button">Search</a>
+                <a class="btn btn-primary btn-lg" href="/map" target="_blank" role="button">Search</a>
+                <a class="btn btn-primary btn-lg" href="/scrape" role="button">News</a>
             </p>
-            <br>
-            <h3>{{tweepy.news_title}}</h3>
-            <h3>{{google.news_title}}</h3>
         </div>
         <div class="container">
-            <div id="map-id" style="width: 600px; height: 400px; position: relative;" class="leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom"
-                tabindex="0"></div>
-                <div id="gg1" class="gauge"></div>
-                <div id="gg2" class="gauge" data-value="25"></div>
-            </div>
+            <p>{{google}}</p>
+  
+            
         </div>
 
         <!-- D3 -->
