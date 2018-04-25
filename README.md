@@ -3,13 +3,11 @@
 
 ## 
 
-Project Statement: Our project will be to build a twitter analyzer that takes in a term or hashtag, returns location information plotted on a map, an analysis of the tweets,
-analyze sentiment analysis and compare it to popularity of the tweet. The app will also search and return news articles and display a gauge of the general
-composite sentiment analysis.
+Project Statement: Our project will be to build a twitter analyzer that takes in a specific set of coordinates, or city name, and  returns information regarding the tweet and it's overal sentiment. The app will also search and return news articles and display a gauge of the general composite sentiment analysis. Our hope is that by choosing an area and gathering tweets from it, we can gauge the general sentiment of a city - And if an event is big enough, we may be able to gauge general sentiment of a city for a particular topic (NBA Finals, Active Shooter situation, Hurricanes, etc). All of this should be as "real time" as the API system allows.
 
 ## To-Do
 
-	-Tweepy API -- Grab geo-data, text, sentiment analysis, tweet popularity metrics. 
+	-Twitter API -- Grab geo-data, text, sentiment analysis, tweet popularity metrics. 
 	-Google News Scrape -- will search google news for 10-15?? popular news events related to the tweet search term we are analyzing.
 	-Flask API -- This will call both Twitter and Google API Python scripts and load results to the Mongo database.
 	-MongoDB/SQL -- Will hold twitter and google data
@@ -35,5 +33,5 @@ composite sentiment analysis.
 
 
 
-### Input box -> Sent analysis -> mapping & plotting -> display to page
+### Input box -> Sent for analysis -> mapping & plotting -> display to page
 ### Input box -> Google Scrape -> display to page
