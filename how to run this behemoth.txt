@@ -1,0 +1,11 @@
+Make sure you run this first in your project folder
+
+npm i http-server (this will add the node modules folder if it isn't already there)
+
+
+Then run the commands in the following order in the project folder:
+
+mongod (just one)
+mongo
+http-server js
+python app.py

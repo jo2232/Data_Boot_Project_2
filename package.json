@@ -8,5 +8,8 @@
     "author": "",
     "devDependencies": {
         "lite-server": "^2.3.0"
+    },
+    "dependencies": {
+        "http-server": "^0.11.1"
     }
 }

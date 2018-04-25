@@ -1,0 +1,53 @@
+files:
+app.py = flask app
+google1.py = no use for this but it COULD be used with CCN scrape to write to DB
+tweepy1.py = this executes Christians twitter api calls
+
+folders:
+js - contains all our javascript
+	- twitter.js is the leaflet / gauge / to be plotly scatter one
+	- some other .js files needed for gauge js
+
+py scripts - archive for .py scripts used in project
+ipynb scripts - archive for jupyter notebooks used in project
+templates - html files for project
+
+
+
+Functionality so far:
+So far we have the engine working and the map is mapping and is 
+displaying each users tweet info. Click on the markers to show the popups.
+
+The city is hard coded (so are my twitter access keys) into tweepy1.py
+- clicking the "search" button on index.html will load up a map that contains ~20
+ (changeable #) tweets from Dallas.
+
+One of the challenges still is figuring out how to pass a city from an HTML drop down
+to the python script that gets the data. My twitter.js is also hard coded to Dallas 
+coordinates for now so maybe there is a way to pass the city coords in at the end of
+ the dict so we could dynamically load that too?
+
+I'm still working on a way to get the gauge.js to work.I will also add the plotly 
+scatter plot below the map/gauge to analyze sentiment vs amount of followers.
+
+As far as getting the news articles to show up for each city and the format of the 
+pages and the overall look are you guys cool with working with bootstrap/jinja
+or whatever you see fit for that? You can format the map.html file too I just append
+to a couple <divs> in there, the rest is unformatted.. It needs to kinda all
+be brought together a bit...
+
+I feel like the landing page lets the user choose their city, 
+then clicking "Search" pops up a new tab to load map.html, then maybe a popup 
+message that says "your request has been submitted and is loading in a new tab", 
+while maybe the current page will load the CNN data like "Look at these articles 
+from this city while your request is completed." ...?
+
+Anyways I'll be on working on the javascript throughout the week, I'll probably have it
+finished before Saturday. Also these are just my thoughts for
+the project and a lot of this is still up to you how to want it to work... HMU
+or text me if you want me to change anything that I'm doing, thanks!
+
+
+
+
+

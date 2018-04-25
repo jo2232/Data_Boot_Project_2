@@ -9,7 +9,8 @@ mongo = PyMongo(app)
 @app.route('/scrape')
 def scrape():
     tweepy = mongo.db.tweepy
-    data = tweepy1.numbers()
+    data = tweepy1.twitterize()
+    print(tweepy)
     tweepy.update(
         {},
         data,
@@ -30,6 +31,14 @@ def index():
     google = mongo.db.google.find_one()
     return render_template('index.html', tweepy=tweepy, google=google)
 
+@app.route('/twitterize')
+def twitterize():
+    data = tweepy1.twitterize()
+    return jsonify(data)
+
+@app.route('/map')
+def map():
+    return render_template('map.html')
 
 if __name__ == "__main__":
     app.run(debug=True)
