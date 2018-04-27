@@ -1,0 +1,1282 @@
+{
+    "Atlanta": {
+        "data": {
+            "bounding_box": [
+                [
+                    -84.433106,
+                    33.767194
+                ],
+                [
+                    -84.433106,
+                    33.767194
+                ],
+                [
+                    -84.515786,
+                    33.846765
+                ],
+                [
+                    -84.433106,
+                    33.767194
+                ],
+                [
+                    -84.532133,
+                    33.948124
+                ],
+                [
+                    -84.326218,
+                    33.820161
+                ],
+                [
+                    -84.433106,
+                    33.767194
+                ],
+                [
+                    -84.433106,
+                    33.767194
+                ],
+                [
+                    -84.326218,
+                    33.820161
+                ],
+                [
+                    -84.433106,
+                    33.767194
+                ]
+            ],
+            "comp_sent": [
+                0.0,
+                0.3612,
+                -0.4497,
+                0.4215,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.128,
+                0.3182
+            ],
+            "coords": [
+                null,
+                [
+                    -84.39578,
+                    33.7650099
+                ],
+                null,
+                null,
+                null,
+                null,
+                [
+                    -84.508322,
+                    33.656906
+                ],
+                [
+                    -84.4681,
+                    33.7612
+                ],
+                null,
+                [
+                    -84.388147,
+                    33.6791435
+                ]
+            ],
+            "created_at": [
+                "Fri Apr 27 21:57:48 +0000 2018",
+                "Fri Apr 27 21:58:50 +0000 2018",
+                "Fri Apr 27 21:58:48 +0000 2018",
+                "Fri Apr 27 21:59:53 +0000 2018",
+                "Fri Apr 27 21:59:53 +0000 2018",
+                "Fri Apr 27 21:59:51 +0000 2018",
+                "Fri Apr 27 22:01:59 +0000 2018",
+                "Fri Apr 27 22:03:01 +0000 2018",
+                "Fri Apr 27 22:05:07 +0000 2018",
+                "Fri Apr 27 22:05:07 +0000 2018"
+            ],
+            "followers_count": [
+                165,
+                220,
+                2284,
+                1466,
+                1259,
+                648,
+                1947,
+                2048,
+                763,
+                486
+            ],
+            "profile_image_url": [
+                "http://pbs.twimg.com/profile_images/936380943539023872/elW16lUk_normal.jpg",
+                "http://pbs.twimg.com/profile_images/976896456434114561/-THRX_p8_normal.jpg",
+                "http://pbs.twimg.com/profile_images/987134869699465216/LeDjHJk__normal.jpg",
+                "http://pbs.twimg.com/profile_images/716151769932369920/85EtycWf_normal.jpg",
+                "http://pbs.twimg.com/profile_images/981541258085720064/fcoyyWar_normal.jpg",
+                "http://pbs.twimg.com/profile_images/977630057379303424/Dw13YK_Y_normal.jpg",
+                "http://pbs.twimg.com/profile_images/989123914738618374/qWKcEpJB_normal.jpg",
+                "http://pbs.twimg.com/profile_images/957379865652670466/-6uPIfC8_normal.jpg",
+                "http://pbs.twimg.com/profile_images/966430396538859520/R1wIs60b_normal.jpg",
+                "http://pbs.twimg.com/profile_images/868591303822647297/btps10sF_normal.jpg"
+            ],
+            "text": [
+                "I never understood until I experienced",
+                "Live Comedy TONIGHT suiteloungeatl Hosted by @ashimafranklin and headlined by @damnfoolisfunny\u2026 https://t.co/vTTTtYy1v1",
+                "Been trying to get the running game up but being flat footed makes it such a struggle \ud83d\ude2b",
+                "Huh lol https://t.co/rSKEg4Ht1P",
+                "@chancetherapper \u263a\ufe0f https://t.co/OWczIhAUs6",
+                "@RavenElyseTV Writing. I can write about any topic. 6 page essay due? I Can finish in a hour. Can write a dope ass\u2026 https://t.co/ySzpgA4t0g",
+                "I gotta find me a gym bae",
+                "One thing about it, you can\u2019t give up on the future... #weallwegot #wetogether #healthylifestyle\u2026 https://t.co/1zcVZxfiFU",
+                "Are you sexually active?\n\nNo I\u2019m absent",
+                "@realhomechef Grilled Honey-mustard Salmon with fresh tomato-dill\u2026 https://t.co/cbSae5ILdK"
+            ],
+            "user": [
+                "asassygirl18",
+                "ashontay88",
+                "tony3K",
+                "TheReal_Morg",
+                "_youngloco",
+                "sheispoetryyy",
+                "StfuAndListenHo",
+                "CB4ATL",
+                "colecarpenter_",
+                "wl_smith"
+            ]
+        },
+        "gps": [
+            -84.387982,
+            33.748995
+        ]
+    },
+    "Chicago": {
+        "data": {
+            "bounding_box": [
+                [
+                    -87.732013,
+                    41.833584
+                ],
+                [
+                    -87.846586,
+                    41.823954
+                ],
+                [
+                    -87.732013,
+                    41.833584
+                ],
+                [
+                    -87.552073,
+                    41.613146
+                ],
+                [
+                    -87.732013,
+                    41.833584
+                ]
+            ],
+            "comp_sent": [
+                0.0,
+                0.6696,
+                0.4019,
+                -0.4767,
+                -0.5106
+            ],
+            "coords": [
+                null,
+                null,
+                [
+                    -87.6278666,
+                    41.88045634
+                ],
+                null,
+                null
+            ],
+            "created_at": [
+                "Fri Apr 27 22:03:08 +0000 2018",
+                "Fri Apr 27 22:03:07 +0000 2018",
+                "Fri Apr 27 22:04:10 +0000 2018",
+                "Fri Apr 27 22:05:15 +0000 2018",
+                "Fri Apr 27 22:05:15 +0000 2018"
+            ],
+            "followers_count": [
+                2136,
+                532,
+                1390,
+                2211,
+                27
+            ],
+            "profile_image_url": [
+                "http://pbs.twimg.com/profile_images/978281850979352576/FHWfBGlF_normal.jpg",
+                "http://pbs.twimg.com/profile_images/892074305055580161/p0VIaKn__normal.jpg",
+                "http://pbs.twimg.com/profile_images/569222783570178048/D3dlYaOO_normal.jpeg",
+                "http://pbs.twimg.com/profile_images/986990966941847552/lDx9-eV3_normal.jpg",
+                "http://pbs.twimg.com/profile_images/665227430588719105/NScT8BBe_normal.jpg"
+            ],
+            "text": [
+                "YOOOOOOO \ud83d\ude2d https://t.co/Yl67gUPXea",
+                "Flying @porterairlines, I see. the best way to get to Toronto! https://t.co/RBWxjIDPb6",
+                "@qpheevr \u201cOh, yes. Little Bobbi Tables we call her.\u201d",
+                "@UpOff_MySteve If he\u2019s with his kid then how come the child is suffering health issues due to the fact of having to\u2026 https://t.co/2PJFkBfZdG",
+                "@ShannonSharpe Until white people start being treated the same way this will never change  Until they\u2019re abused and\u2026 https://t.co/A5pzKsoUGI"
+            ],
+            "user": [
+                "daminati0n",
+                "tonyni",
+                "FriendlyAshley",
+                "ToiNoStory",
+                "WayUpIFB"
+            ]
+        },
+        "gps": [
+            -87.629798,
+            41.878114
+        ]
+    },
+    "Dallas": {
+        "data": {
+            "bounding_box": [
+                [
+                    -96.761754,
+                    32.819858
+                ],
+                [
+                    -96.761754,
+                    32.819858
+                ],
+                [
+                    -97.285913,
+                    32.779966
+                ],
+                [
+                    -96.761754,
+                    32.819858
+                ],
+                [
+                    -97.135638,
+                    32.70185
+                ],
+                [
+                    -96.761754,
+                    32.819858
+                ],
+                [
+                    -97.224318,
+                    32.860387
+                ],
+                [
+                    -96.761754,
+                    32.819858
+                ],
+                [
+                    -96.991828,
+                    33.042437
+                ],
+                [
+                    -97.285913,
+                    32.779966
+                ],
+                [
+                    -97.135638,
+                    32.70185
+                ],
+                [
+                    -96.690937,
+                    32.964485
+                ],
+                [
+                    -96.761754,
+                    32.819858
+                ],
+                [
+                    -97.094506,
+                    32.846237
+                ],
+                [
+                    -96.785531,
+                    32.604786
+                ],
+                [
+                    -97.079654,
+                    32.931834
+                ],
+                [
+                    -97.094506,
+                    32.846237
+                ],
+                [
+                    -97.285913,
+                    32.779966
+                ],
+                [
+                    -96.690937,
+                    32.964485
+                ],
+                [
+                    -96.761754,
+                    32.819858
+                ],
+                [
+                    -97.285913,
+                    32.779966
+                ]
+            ],
+            "comp_sent": [
+                -0.296,
+                0.5994,
+                -0.6486,
+                -0.3818,
+                0.0,
+                0.0,
+                0.9393,
+                0.6124,
+                0.0,
+                0.4215,
+                0.802,
+                0.0,
+                0.4215,
+                0.0,
+                -0.7845,
+                0.4981,
+                0.0,
+                0.807,
+                -0.128,
+                0.4767,
+                0.7027
+            ],
+            "coords": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "created_at": [
+                "Fri Apr 27 21:55:22 +0000 2018",
+                "Fri Apr 27 21:55:22 +0000 2018",
+                "Fri Apr 27 21:55:21 +0000 2018",
+                "Fri Apr 27 21:56:26 +0000 2018",
+                "Fri Apr 27 21:56:25 +0000 2018",
+                "Fri Apr 27 21:57:27 +0000 2018",
+                "Fri Apr 27 21:58:31 +0000 2018",
+                "Fri Apr 27 21:58:31 +0000 2018",
+                "Fri Apr 27 21:58:31 +0000 2018",
+                "Fri Apr 27 21:59:34 +0000 2018",
+                "Fri Apr 27 21:59:34 +0000 2018",
+                "Fri Apr 27 22:01:40 +0000 2018",
+                "Fri Apr 27 22:01:39 +0000 2018",
+                "Fri Apr 27 22:02:42 +0000 2018",
+                "Fri Apr 27 22:02:42 +0000 2018",
+                "Fri Apr 27 22:03:46 +0000 2018",
+                "Fri Apr 27 22:03:45 +0000 2018",
+                "Fri Apr 27 22:03:43 +0000 2018",
+                "Fri Apr 27 22:04:49 +0000 2018",
+                "Fri Apr 27 22:04:49 +0000 2018",
+                "Fri Apr 27 22:04:49 +0000 2018"
+            ],
+            "followers_count": [
+                5395,
+                1143,
+                261,
+                43,
+                943,
+                2239,
+                613,
+                58,
+                7083,
+                1390,
+                88,
+                445,
+                613,
+                1986,
+                67,
+                1382,
+                1986,
+                1270,
+                166,
+                87,
+                1063
+            ],
+            "profile_image_url": [
+                "http://pbs.twimg.com/profile_images/981337150376509440/HcFXpaTF_normal.jpg",
+                "http://pbs.twimg.com/profile_images/978089562907009029/Th-qAQ7g_normal.jpg",
+                "http://pbs.twimg.com/profile_images/894358665704222720/1NloO4Vc_normal.jpg",
+                "http://pbs.twimg.com/profile_images/926816446138765312/yk-SJJ_2_normal.jpg",
+                "http://pbs.twimg.com/profile_images/925677123007852544/P-uMDhED_normal.jpg",
+                "http://pbs.twimg.com/profile_images/975914842732232706/F0MzM-f2_normal.jpg",
+                "http://pbs.twimg.com/profile_images/985560149124403201/UJDSL6Li_normal.jpg",
+                "http://pbs.twimg.com/profile_images/988155506463297537/aRniq38b_normal.jpg",
+                "http://pbs.twimg.com/profile_images/986678050405404674/Bfs-N8HJ_normal.jpg",
+                "http://pbs.twimg.com/profile_images/989567646709485569/CGyWa6zJ_normal.jpg",
+                "http://pbs.twimg.com/profile_images/811707456120377344/VnP2itIL_normal.jpg",
+                "http://pbs.twimg.com/profile_images/903986659825508352/3UNBCHe8_normal.jpg",
+                "http://pbs.twimg.com/profile_images/938066459070226435/Zk8aPNdK_normal.jpg",
+                "http://pbs.twimg.com/profile_images/965106355987210241/j5Beq3Th_normal.jpg",
+                "http://pbs.twimg.com/profile_images/973803326553907201/LHi_Rqv1_normal.jpg",
+                "http://pbs.twimg.com/profile_images/988394809474760705/Ik6NkF-1_normal.jpg",
+                "http://pbs.twimg.com/profile_images/965106355987210241/j5Beq3Th_normal.jpg",
+                "http://pbs.twimg.com/profile_images/3179788584/cda2bd80f2e28d5658407b3293a59397_normal.jpeg",
+                "http://pbs.twimg.com/profile_images/984098590019735554/ET4bJyo0_normal.jpg",
+                "http://pbs.twimg.com/profile_images/967134256295305216/1Zks8qc1_normal.jpg",
+                "http://pbs.twimg.com/profile_images/985590264193527812/7vqHrgpt_normal.jpg"
+            ],
+            "text": [
+                "Ain\u2019t no other option \ud83e\udd18\ud83c\udffd https://t.co/FUbeVNKWhd",
+                "lmao chillin with baber rn",
+                "@EvaMcBob \"lame\" - Eva\n\"Sleep when you're dead\" - Eva\n\"You're old\" - eva",
+                "Been listening to @Eminem \nHis shit is so dope, how he plays the words. Listen to the story. #stan\u2026 https://t.co/zovLjZh9C6",
+                "@dawson_jackk and @Tuli_Teuhema living the red carpet life!! #VFND #NFLDraft https://t.co/ZVr9obFGR2",
+                "@NunuDrippin You must got a boyfriend In there",
+                "WOW WOW WOW https://t.co/2O6IqKBtWK",
+                "It\u2019s gorgeous out here \ud83d\udc40 #katytrail #dallas #texas #workinitout",
+                "@BossNmyOwnRite1 Right ahaha",
+                "y\u2019all are seriously over reacting to this whole Kanye thing lmfao",
+                "Love you sweet girl @stephxniee__ https://t.co/9ac97Ez5Fl",
+                "@alicekeeler Awesomeness!  \ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/BEhGEbHzPr",
+                "@KennnyaaBreanna @ShaunicesPieces Oh Yu talking to poke lol",
+                "@NiaFHenry  https://t.co/Ol9PD0OASE",
+                "WHY DO BOYS CHEAT ON THEIR GIRLFRIENDS WITH BASIC BITCHES?",
+                "@TwoDots did I do something wrong?! Next life in 4+ hours D: https://t.co/qGuZICjKoh",
+                "@petty_marshall This is false",
+                "Thanks to my man @USMCoachSW from @SouthernMissFB for coming out to @NolanCatholicFB and talking ball! Great coach\u2026 https://t.co/UO8SaUMpKQ",
+                "Les fachos ont vraiment une vie de merde. Ils sont obs\u00e9d\u00e9s tous les jours, tout le temps \u00e0 rt, tweeter des trucs in\u2026 https://t.co/NUAk6mjLLI",
+                "@washingtonpost Besides passing a tax break for his wealthier-than-wealthy friends, what has Trump done, other than\u2026 https://t.co/sEstOkDMYS",
+                "My man just sent me the \u201cpost haircut\u201d pic...... and WOW. That\u2019s all I gotta say! \ud83d\ude3b\ud83d\ude3b\ud83d\ude3b"
+            ],
+            "user": [
+                "1Jimmy__",
+                "xchickenxlegsx",
+                "_tskad",
+                "RobertEng1",
+                "CoachSkinz",
+                "BRAY_MAKEPLAYS",
+                "a__gorman",
+                "floridachick01",
+                "DLdude23",
+                "RichardRod34",
+                "HargroveLori",
+                "MilamDyslexia",
+                "bri_lashell_",
+                "4MPBobby",
+                "deannaaaxxx",
+                "ed_chang",
+                "4MPBobby",
+                "CoachBeaudin",
+                "EliesKraimi",
+                "Jainiand2cats",
+                "biankakristine"
+            ]
+        },
+        "gps": [
+            -96.796988,
+            32.776664
+        ]
+    },
+    "Kansas City": {
+        "data": {
+            "bounding_box": [
+                [
+                    -98.319925,
+                    38.498196
+                ],
+                [
+                    -94.559282,
+                    39.100048
+                ],
+                [
+                    -94.675094,
+                    38.931549
+                ],
+                [
+                    -94.559282,
+                    39.100048
+                ],
+                [
+                    -94.559282,
+                    39.100048
+                ],
+                [
+                    -94.559282,
+                    39.100048
+                ],
+                [
+                    -94.279122,
+                    39.014861
+                ],
+                [
+                    -94.559282,
+                    39.100048
+                ],
+                [
+                    -94.675094,
+                    38.931549
+                ],
+                [
+                    -94.774577,
+                    38.954341
+                ],
+                [
+                    -94.559282,
+                    39.100048
+                ],
+                [
+                    -94.559282,
+                    39.100048
+                ],
+                [
+                    -94.559282,
+                    39.100048
+                ],
+                [
+                    -94.58051,
+                    39.08445
+                ]
+            ],
+            "comp_sent": [
+                0.4939,
+                0.6908,
+                0.4926,
+                0.6124,
+                0.3612,
+                -0.5423,
+                0.4019,
+                -0.4019,
+                0.6597,
+                0.0,
+                0.5106,
+                0.0,
+                0.0,
+                0.8122
+            ],
+            "coords": [
+                [
+                    -94.8062268,
+                    38.9817042
+                ],
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "created_at": [
+                "Fri Apr 27 21:56:05 +0000 2018",
+                "Fri Apr 27 21:56:03 +0000 2018",
+                "Fri Apr 27 21:57:03 +0000 2018",
+                "Fri Apr 27 21:57:02 +0000 2018",
+                "Fri Apr 27 21:58:01 +0000 2018",
+                "Fri Apr 27 21:59:16 +0000 2018",
+                "Fri Apr 27 22:02:24 +0000 2018",
+                "Fri Apr 27 22:02:18 +0000 2018",
+                "Fri Apr 27 22:02:14 +0000 2018",
+                "Fri Apr 27 22:03:21 +0000 2018",
+                "Fri Apr 27 22:03:10 +0000 2018",
+                "Fri Apr 27 22:04:09 +0000 2018",
+                "Fri Apr 27 22:05:34 +0000 2018",
+                "Fri Apr 27 22:05:16 +0000 2018"
+            ],
+            "followers_count": [
+                278,
+                2540,
+                1897,
+                134,
+                439,
+                439,
+                716,
+                827,
+                4539,
+                673,
+                824,
+                695,
+                955,
+                266
+            ],
+            "profile_image_url": [
+                "http://pbs.twimg.com/profile_images/890321622116306948/48D8ysJR_normal.jpg",
+                "http://pbs.twimg.com/profile_images/976659955204939777/qhrlvNeO_normal.jpg",
+                "http://pbs.twimg.com/profile_images/896873930585247744/D2ha9vM1_normal.jpg",
+                "http://pbs.twimg.com/profile_images/540973045196668928/mgYL0nId_normal.jpeg",
+                "http://pbs.twimg.com/profile_images/985635822908182528/s_pXFuhY_normal.jpg",
+                "http://pbs.twimg.com/profile_images/985635822908182528/s_pXFuhY_normal.jpg",
+                "http://pbs.twimg.com/profile_images/983714226454908928/XzELF_80_normal.jpg",
+                "http://pbs.twimg.com/profile_images/378800000268306320/ef3b6f9544a1e51c75a10dc7d17596b9_normal.jpeg",
+                "http://pbs.twimg.com/profile_images/863400808397758464/0loO4Zys_normal.jpg",
+                "http://pbs.twimg.com/profile_images/988488206436925440/QtS-m1Qr_normal.jpg",
+                "http://pbs.twimg.com/profile_images/978674128335982594/J-tQ0dNw_normal.jpg",
+                "http://pbs.twimg.com/profile_images/985690511737540608/Et99hnO5_normal.jpg",
+                "http://pbs.twimg.com/profile_images/878242071789928448/L-Oh0ta__normal.jpg",
+                "http://pbs.twimg.com/profile_images/563789809429123072/ixlvEIk0_normal.jpeg"
+            ],
+            "text": [
+                "CMS 8th Grade Honor Choir PLUS one\ud83e\udd23 #cmschoirtrip2018 @ Shawnee Mission Dog Park https://t.co/tTb3tJvH6b",
+                "Just need a good bang out lol \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f",
+                "@TheRealMrSweary Ha, I\u2019m picking up what you\u2019re putting down! I definitely do cons, and although I\u2019ve missed a coup\u2026 https://t.co/bekP2r6Ahs",
+                "@Tavariuss @davidbussey @EdFromVA @Caitieeee_lyn @Nico_Mancuso_ @KingJames Lol ok",
+                "Every time I pull up on my step dad he always gives me $20 and be like \u201chere put this in ya gas tank\u201d gas tank alre\u2026 https://t.co/uaJjr00lmL",
+                "@Jay_Rel First off if I wanted to be an analytical asshole I\u2019d rip his Uncle Tom ass to shreds \ud83d\ude44\ud83d\ude02",
+                "yes https://t.co/On4TQn9cM7",
+                "Damn \n https://t.co/CBrdv3fStm",
+                "Easy. Socialised medicine like they wanted Ocare to become &amp; Bernie wants. https://t.co/hT5plIeyAE",
+                "gonna be in my feels the rest of 2018 https://t.co/tcdseMgcRg",
+                "My thesis research shelf...so far. This is going to be fun. #WritingLife #Reading #work https://t.co/Kq3Cjp2B9Q",
+                "mansion = wisconsin https://t.co/5CF6Omdn6k",
+                "There were 35 deaths in Europe last year from measles. Anyone not up to date with their immunizations could be resp\u2026 https://t.co/n5VNWMNC2q",
+                "#aafpLEAD #aafpACLF @MtAFPhysicians My fav - Dr. Amy Matheny in KC for a great conference! https://t.co/qpSmfX92bd"
+            ],
+            "user": [
+                "Phil_Woodmore",
+                "RellytheCrip",
+                "SadMeganGirls",
+                "AnthonyAccurso1",
+                "Yelllafella",
+                "Yelllafella",
+                "itsDreww",
+                "OGTslay1974",
+                "SlobodzianSteve",
+                "wbarton15",
+                "ChrisMArnone",
+                "sayistooshort",
+                "RexArcherMD",
+                "DennisSalisbury"
+            ]
+        },
+        "gps": [
+            -94.578567,
+            39.099727
+        ]
+    },
+    "Las Vegas": {
+        "data": {
+            "bounding_box": [
+                [
+                    -115.135165,
+                    36.060964
+                ],
+                [
+                    -115.135165,
+                    36.060964
+                ],
+                [
+                    -115.135165,
+                    36.060964
+                ],
+                [
+                    -115.223125,
+                    36.232915
+                ],
+                [
+                    -115.234436,
+                    36.018805
+                ],
+                [
+                    -115.133373,
+                    36.249124
+                ],
+                [
+                    -115.223125,
+                    36.232915
+                ],
+                [
+                    -115.038337,
+                    36.006256
+                ]
+            ],
+            "comp_sent": [
+                0.0,
+                0.0258,
+                -0.5994,
+                0.4263,
+                0.7696,
+                0.6908,
+                0.5255,
+                0.6696
+            ],
+            "coords": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                [
+                    -114.9668045,
+                    36.0754623
+                ]
+            ],
+            "created_at": [
+                "Fri Apr 27 21:56:19 +0000 2018",
+                "Fri Apr 27 21:56:18 +0000 2018",
+                "Fri Apr 27 21:57:22 +0000 2018",
+                "Fri Apr 27 21:58:25 +0000 2018",
+                "Fri Apr 27 21:58:22 +0000 2018",
+                "Fri Apr 27 22:00:32 +0000 2018",
+                "Fri Apr 27 22:02:37 +0000 2018",
+                "Fri Apr 27 22:03:39 +0000 2018"
+            ],
+            "followers_count": [
+                1000,
+                340,
+                736,
+                3152,
+                266,
+                508,
+                428,
+                210
+            ],
+            "profile_image_url": [
+                "http://pbs.twimg.com/profile_images/967708142447443969/Ze8x8_aH_normal.jpg",
+                "http://pbs.twimg.com/profile_images/971577852368957442/-uGw6igd_normal.jpg",
+                "http://pbs.twimg.com/profile_images/970794628554330114/KA_eerSg_normal.jpg",
+                "http://pbs.twimg.com/profile_images/988974756320956416/ZEi80LUV_normal.jpg",
+                "http://pbs.twimg.com/profile_images/985714646555373569/Cpsgo2jq_normal.jpg",
+                "http://pbs.twimg.com/profile_images/988873950850564096/7awhFEb9_normal.jpg",
+                "http://pbs.twimg.com/profile_images/923030204166971392/Js_FTfDH_normal.jpg",
+                "http://pbs.twimg.com/profile_images/573239185168973824/Qp_x4RBF_normal.png"
+            ],
+            "text": [
+                "I guess I should make my way to my bed to take my nap before work tonight \ud83d\ude22",
+                "Oh the sweet melancholy",
+                "@austin_harvill @EarthIsFIat @NugsNotDrugs__ Austin bullying again again again",
+                "LIVE NOW PLAYING KINGDOM HEARTS 0.2!\nhttps://t.co/3dgIlNo78k https://t.co/73gHUghJ35",
+                "pls do not hurt the lil bean that is ur girlfriend, bc if u do, I will come for you, WATCH! oh...u talented too ig.",
+                "Geo almost witnessed me passing out from excitement yesterday when CNCO came out to perform like 5 ft from where I was\ud83d\udc80",
+                "@LadyLawyerDiary @LegallyVy @alicelfc4 Woo boo!",
+                "Scruffy puppy love! @ Chimera Golf Club https://t.co/Ekp3tMbo8H"
+            ],
+            "user": [
+                "CrownHolderQua",
+                "frankthapoet",
+                "ChrisProbstTD",
+                "EdoNinjaStormHD",
+                "xyjapi",
+                "_briahnna_",
+                "theinhold",
+                "Duntonhomes"
+            ]
+        },
+        "gps": [
+            -115.13983,
+            36.169941
+        ]
+    },
+    "Los Angeles": {
+        "data": {
+            "bounding_box": [
+                [
+                    -118.10744,
+                    34.010186
+                ],
+                [
+                    -118.411906,
+                    34.02079
+                ],
+                [
+                    -118.411906,
+                    34.02079
+                ],
+                [
+                    -118.48042,
+                    34.022688
+                ],
+                [
+                    -118.399639,
+                    34.082497
+                ],
+                [
+                    -118.411906,
+                    34.02079
+                ]
+            ],
+            "comp_sent": [
+                -0.836,
+                0.6486,
+                0.6369,
+                -0.3182,
+                0.0,
+                -0.5719
+            ],
+            "coords": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "created_at": [
+                "Fri Apr 27 21:55:36 +0000 2018",
+                "Fri Apr 27 21:58:44 +0000 2018",
+                "Fri Apr 27 22:00:51 +0000 2018",
+                "Fri Apr 27 22:00:51 +0000 2018",
+                "Fri Apr 27 22:01:53 +0000 2018",
+                "Fri Apr 27 22:05:02 +0000 2018"
+            ],
+            "followers_count": [
+                96,
+                22,
+                62,
+                175,
+                9809,
+                836
+            ],
+            "profile_image_url": [
+                "http://pbs.twimg.com/profile_images/716504299749019648/qGwqCRUD_normal.jpg",
+                "http://pbs.twimg.com/profile_images/983162400286302210/DxPdpSGL_normal.jpg",
+                "http://pbs.twimg.com/profile_images/947928775081132032/rpDJ_5iT_normal.jpg",
+                "http://pbs.twimg.com/profile_images/526056698071371777/W2UPKrMD_normal.jpeg",
+                "http://pbs.twimg.com/profile_images/989978477964165120/WSVRtzYg_normal.jpg",
+                "http://pbs.twimg.com/profile_images/987904678976307200/q2x7wNDx_normal.jpg"
+            ],
+            "text": [
+                "@AveryHardHiphop Thats what I said about The Walking Dead after Glenn died",
+                "Hosting a party? Leave the cooking to us and impress your guests with the fresh, fiery flavors of #PitaGrillNoHo\u2026 https://t.co/Elvc0dIO4S",
+                "you either love the internet or you get out of my life \ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f https://t.co/6SH0QxK4r4",
+                "@AETV She lost the OJ case.   She knows nothing.",
+                "27 de Abril; Beverly Hills.\n\n\u2661\u250aMi d\u00eda comenz\u00f3 de la mejor manera, con la noticia de que voy a tener el fin de seman\u2026 https://t.co/IMlcGRrZJ8",
+                "I FUCKEN HATE MYSELF SO MUCH"
+            ],
+            "user": [
+                "Andyboy_91",
+                "PitaGrillNoHo",
+                "housetotheMC",
+                "canyongal",
+                "SUPERHBITCH",
+                "dela_roo"
+            ]
+        },
+        "gps": [
+            -118.243685,
+            34.052234
+        ]
+    },
+    "Miami": {
+        "data": {
+            "bounding_box": [
+                [
+                    -80.329694,
+                    25.578803
+                ],
+                [
+                    -80.177668,
+                    25.905605
+                ],
+                [
+                    -80.233328,
+                    25.782354
+                ],
+                [
+                    -80.125423,
+                    25.893189
+                ],
+                [
+                    -80.207263,
+                    25.944446
+                ],
+                [
+                    -80.24688,
+                    25.87269
+                ],
+                [
+                    -80.290188,
+                    25.821728
+                ]
+            ],
+            "comp_sent": [
+                0.0,
+                0.0,
+                0.0,
+                0.5719,
+                0.0,
+                0.7243,
+                0.4215
+            ],
+            "coords": [
+                null,
+                null,
+                [
+                    -80.24,
+                    25.73
+                ],
+                [
+                    -80.12524,
+                    25.88833
+                ],
+                null,
+                null,
+                null
+            ],
+            "created_at": [
+                "Fri Apr 27 21:56:57 +0000 2018",
+                "Fri Apr 27 21:57:59 +0000 2018",
+                "Fri Apr 27 21:59:00 +0000 2018",
+                "Fri Apr 27 22:02:10 +0000 2018",
+                "Fri Apr 27 22:03:12 +0000 2018",
+                "Fri Apr 27 22:04:13 +0000 2018",
+                "Fri Apr 27 22:05:21 +0000 2018"
+            ],
+            "followers_count": [
+                610,
+                511,
+                423,
+                192,
+                10061,
+                287,
+                1152
+            ],
+            "profile_image_url": [
+                "http://pbs.twimg.com/profile_images/981056268084350976/EQZ7i3zc_normal.jpg",
+                "http://pbs.twimg.com/profile_images/929005594241093633/kHcWIzOW_normal.jpg",
+                "http://pbs.twimg.com/profile_images/989987270034771968/Fg7kJvNK_normal.jpg",
+                "http://pbs.twimg.com/profile_images/779048727113715712/3dcMGgEE_normal.jpg",
+                "http://pbs.twimg.com/profile_images/983725133230682112/wn7kx_d0_normal.jpg",
+                "http://pbs.twimg.com/profile_images/982019959483240449/SHLSym1a_normal.jpg",
+                "http://pbs.twimg.com/profile_images/987781542809423873/STju_MNz_normal.jpg"
+            ],
+            "text": [
+                "Lmaooooo https://t.co/qqmKkwZG9w",
+                "@jasmeanieeee \ud83d\ude2d",
+                "temperature down 81\u00b0F -&gt; 74\u00b0F\nhumidity down 88% -&gt; 74%\nwind 3mph -&gt; 5mph",
+                "Perfect match #ChanelSandals &amp; #GivenchyTote \u2764\ufe0f\n\ud83d\udc4d\ud83c\udffc or \ud83d\udc4e\ud83c\udffc? @ Bal Harbour Shops https://t.co/Z3nwpE4DAv",
+                "Running out of work on a Friday like...#kisscountry #fridayvibes #friyay #fridayfeels #weekendvibes https://t.co/9xAOgTUWkR",
+                "District Champions!!!! Congratulations Lady Generals!!! Next stop...Regionals! JAX vs Edison SHS https://t.co/DzO1msVKkv",
+                "If I do this...this would be the last day I work in my life \ud83d\ude2d\ud83d\ude2d nadie me va a poder sacar de ah\u00ed lol https://t.co/rgPuwPFavN"
+            ],
+            "user": [
+                "stephMserrano",
+                "_jLaaa",
+                "_MiamiFL",
+                "driferreiralook",
+                "KissCountry999",
+                "jaxathletics",
+                "CubanitaBlogger"
+            ]
+        },
+        "gps": [
+            -80.19179,
+            25.76168
+        ]
+    },
+    "New York": {
+        "data": {
+            "bounding_box": [
+                [
+                    -74.103028,
+                    40.81686
+                ],
+                [
+                    -73.948776,
+                    40.655138
+                ],
+                [
+                    -73.948776,
+                    40.655138
+                ],
+                [
+                    -73.948776,
+                    40.655138
+                ],
+                [
+                    -74.032258,
+                    40.74638
+                ]
+            ],
+            "comp_sent": [
+                -0.7096,
+                -0.2516,
+                -0.5216,
+                -0.0516,
+                0.4215
+            ],
+            "coords": [
+                [
+                    -74.1012,
+                    40.8109
+                ],
+                null,
+                null,
+                null,
+                null
+            ],
+            "created_at": [
+                "Fri Apr 27 21:59:10 +0000 2018",
+                "Fri Apr 27 21:59:10 +0000 2018",
+                "Fri Apr 27 22:00:12 +0000 2018",
+                "Fri Apr 27 22:02:18 +0000 2018",
+                "Fri Apr 27 22:04:24 +0000 2018"
+            ],
+            "followers_count": [
+                3041,
+                481,
+                1419,
+                709,
+                384
+            ],
+            "profile_image_url": [
+                "http://pbs.twimg.com/profile_images/439097888258260992/1vEcUlC2_normal.png",
+                "http://pbs.twimg.com/profile_images/986367834019254272/KGo17ewK_normal.jpg",
+                "http://pbs.twimg.com/profile_images/979884921119387648/Eu64AeTX_normal.jpg",
+                "http://pbs.twimg.com/profile_images/929781795561857024/lRrSuJfe_normal.jpg",
+                "http://pbs.twimg.com/profile_images/987836170053746693/RU_qpSpU_normal.jpg"
+            ],
+            "text": [
+                "Accident cleared in #Rutherford on Rt-3 WB at Rt-17, stopped traffic back to Meadowland Pky, delay of 32 mins\u2026 https://t.co/W6vaz5Qi6N",
+                "A year ago today I literally almost lost my job, me and Tim drove all the way up to Connecticut just to see @trvisXX #birdseyeview",
+                "@LEGIQN Omg omg omg omg no you didn't bro!!!!!! Hahahahaha",
+                "@AdamGoesHam Watch me do the same. I swear on it.",
+                "@Patterico Never heard of RedState until I saw this tweet. Maybe that had something to do with it? Lol, don\u2019t mean\u2026 https://t.co/7DfOLq6Cid"
+            ],
+            "user": [
+                "TotalTrafficNYC",
+                "acadte",
+                "MixAmpPapi",
+                "Lilo_Key",
+                "SicilianoUno"
+            ]
+        },
+        "gps": [
+            -74.005973,
+            40.712775
+        ]
+    },
+    "Seattle": {
+        "data": {
+            "bounding_box": [
+                [
+                    -122.149768,
+                    47.597856
+                ],
+                [
+                    -122.232754,
+                    47.565392
+                ],
+                [
+                    -122.330602,
+                    47.614817
+                ],
+                [
+                    -122.330602,
+                    47.614817
+                ],
+                [
+                    -122.330602,
+                    47.614817
+                ]
+            ],
+            "comp_sent": [
+                0.0,
+                0.0,
+                -0.4336,
+                0.5256,
+                -0.0516
+            ],
+            "coords": [
+                [
+                    -122.159,
+                    47.5976
+                ],
+                null,
+                null,
+                null,
+                null
+            ],
+            "created_at": [
+                "Fri Apr 27 21:58:18 +0000 2018",
+                "Fri Apr 27 22:03:32 +0000 2018",
+                "Fri Apr 27 22:04:36 +0000 2018",
+                "Fri Apr 27 22:04:34 +0000 2018",
+                "Fri Apr 27 22:05:38 +0000 2018"
+            ],
+            "followers_count": [
+                139,
+                1020,
+                7968,
+                2278,
+                171
+            ],
+            "profile_image_url": [
+                "http://pbs.twimg.com/profile_images/599274876768124928/JLC4Zz3b_normal.jpg",
+                "http://pbs.twimg.com/profile_images/574271766643650560/VTKbzvpu_normal.jpeg",
+                "http://pbs.twimg.com/profile_images/952516234397892608/t-cLWYpX_normal.jpg",
+                "http://pbs.twimg.com/profile_images/913709569884397568/yeAgMeF9_normal.jpg",
+                "http://pbs.twimg.com/profile_images/988961945775620096/8dBTyc8Y_normal.jpg"
+            ],
+            "text": [
+                "Why do we travel? ... To read the books we can't find time to in a day to day busy routine.\u2026 https://t.co/weTfqZYN0i",
+                "@thehill Lock him up.",
+                "The rain on your wedding day is that the media applauded most of their worst stuff (welfare reform, Iraq, etc.) whi\u2026 https://t.co/oWH8fw5xFh",
+                "@Josh_Spieker @SeahawkScout I\u2019m actually really impressed. It was for Beckham wasn\u2019t it? Your side.",
+                "I'm just gonna leave this here:\nhttps://t.co/sU9T8wpxRh"
+            ],
+            "user": [
+                "anasofiamariz",
+                "clengeland1",
+                "LemieuxLGM",
+                "raincityseries",
+                "thatlaurachick"
+            ]
+        },
+        "gps": [
+            -122.332071,
+            47.60621
+        ]
+    },
+    "St. Louis": {
+        "data": {
+            "bounding_box": [
+                [
+                    -90.33429,
+                    38.629935
+                ],
+                [
+                    -90.517684,
+                    38.793046
+                ],
+                [
+                    -90.112654,
+                    38.612106
+                ],
+                [
+                    -90.111975,
+                    38.743168
+                ],
+                [
+                    -90.44196,
+                    38.668105
+                ],
+                [
+                    -90.588382,
+                    38.588162
+                ],
+                [
+                    -90.454076,
+                    38.715947
+                ],
+                [
+                    -90.151097,
+                    38.90121
+                ],
+                [
+                    -90.478136,
+                    38.633388
+                ],
+                [
+                    -90.247824,
+                    38.653771
+                ]
+            ],
+            "comp_sent": [
+                0.0,
+                0.0,
+                -0.4404,
+                0.9515,
+                -0.3875,
+                0.4404,
+                -0.2263,
+                -0.6378,
+                0.4939,
+                0.765
+            ],
+            "coords": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                [
+                    -90.56746426,
+                    38.59227484
+                ],
+                null,
+                null,
+                null,
+                [
+                    -90.1994042,
+                    38.6270025
+                ]
+            ],
+            "created_at": [
+                "Fri Apr 27 21:55:26 +0000 2018",
+                "Fri Apr 27 21:56:27 +0000 2018",
+                "Fri Apr 27 21:58:36 +0000 2018",
+                "Fri Apr 27 21:58:31 +0000 2018",
+                "Fri Apr 27 21:58:28 +0000 2018",
+                "Fri Apr 27 22:00:44 +0000 2018",
+                "Fri Apr 27 22:01:45 +0000 2018",
+                "Fri Apr 27 22:02:43 +0000 2018",
+                "Fri Apr 27 22:04:55 +0000 2018",
+                "Fri Apr 27 22:04:54 +0000 2018"
+            ],
+            "followers_count": [
+                1139,
+                541,
+                405,
+                90,
+                4556,
+                286,
+                2612,
+                338,
+                1276,
+                351
+            ],
+            "profile_image_url": [
+                "http://pbs.twimg.com/profile_images/989595522385285121/tg8klLVG_normal.jpg",
+                "http://pbs.twimg.com/profile_images/915556320757075968/C_BfR0xt_normal.jpg",
+                "http://pbs.twimg.com/profile_images/758867815206006785/Q3c4V-ah_normal.jpg",
+                "http://pbs.twimg.com/profile_images/948452730179391488/RHXmWGnO_normal.jpg",
+                "http://pbs.twimg.com/profile_images/628260393719238660/8hMu1Fjy_normal.png",
+                "http://pbs.twimg.com/profile_images/976620463182016515/SQ8fmbF1_normal.jpg",
+                "http://pbs.twimg.com/profile_images/917877189596639233/k-PhbXJ5_normal.jpg",
+                "http://pbs.twimg.com/profile_images/983910038208241664/BfGhIVh6_normal.jpg",
+                "http://pbs.twimg.com/profile_images/903256288439799808/UnQchb5-_normal.jpg",
+                "http://pbs.twimg.com/profile_images/680956986226151424/kdQv-V2i_normal.jpg"
+            ],
+            "text": [
+                "@taylorconleyy @ChanceHarbour literally me\ud83d\ude2d",
+                "Should\u2019ve ran into one of the mfs that decided to pull out in front of me \ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f",
+                "@HoldYa_HORSES I\u2019m weak g... that\u2019s sholl him...",
+                "7 days sober!!! Hard but SO SO WORTH IT. To anyone struggling,it gets better and honestly I\u2019ve never felt more aliv\u2026 https://t.co/5trmpshBCJ",
+                "@Ron_Kopp Oh, I\u2019m not confident in their health, either. But they\u2019re making the roster. So is Kpass. That leaves on\u2026 https://t.co/SsG4qbbpK0",
+                "Bacon is good. @ IHOP https://t.co/Vn5BENMwc2",
+                "@__POSHM Congrats whore",
+                "the lack of promposals this year is kinda saddening",
+                "@ChristopherAve Sunshine Bill",
+                "This #job might be a great fit for you: Web Author - https://t.co/VuWeN60x8T #Writing #StLouis, MO #Hiring #CareerArc"
+            ],
+            "user": [
+                "BlakeleyR",
+                "coriecwyhs",
+                "KyronCox",
+                "hansofaeries",
+                "BKSportsTalk",
+                "EricandthePips",
+                "ZaPrototype",
+                "janelgaitherr",
+                "MoRepEvans",
+                "tmj_stl_writing"
+            ]
+        },
+        "gps": [
+            -90.199404,
+            38.627003
+        ]
+    }
+}
