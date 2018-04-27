@@ -18,6 +18,12 @@ composite sentiment analysis.
 		2. Page returning news articles and composite sentiment Gauge using the c3.js library
 		3. Scatter plot showing (at least) individual sentiment analysis vs tweet popularity
 	-HTML - TBD how many pages we will use to display/organize our data.
+ Added 4/26
+ 	-Error handling on twitter text scrape to eliminate dupes: Christian
+	-Re-wrap scraped3 into a python script: Christian
+	-Build a dropdown for cities and zoom to that city OR do not pass city, grab all cities and display and allow user to search: 
+	-Get Jinja to work and display articles: Jeff
+	-Work on plotly graph for twitter followers: Jeff
 
 
 ## Due April 24th (Tuesday)
