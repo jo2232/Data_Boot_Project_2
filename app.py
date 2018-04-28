@@ -26,9 +26,7 @@ def index():
 @app.route('/twitterize')
 def twitterize():
     # data = tweepy1.twitterize()
-    test = {}
-
-    # return jsonify(data)
+    return jsonify(data)
     return ('hi')
 
 @app.route('/getLastData')
