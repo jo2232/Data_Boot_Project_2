@@ -23,6 +23,16 @@ var dflt = {};
 var gg1 = {};
 
 
+var twitterIcon = L.icon({
+    iconUrl: 'https://www.geraldgiles.co.uk/wp-content/uploads/2017/07/twitter-logo-transparent.png',
+    // shadowUrl: 'leaf-shadow.png',
+
+    iconSize:     [30,30], // size of the icon
+    // shadowSize:   [50, 64], // size of the shadow
+    // iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+    // shadowAnchor: [4, 62],  // the same for the shadow
+    // popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+});
 
 // read in leaflet and start creating map
 d3.json("https://gbfs.citibikenyc.com/gbfs/en/station_information.json", createMarkers);
@@ -47,7 +57,7 @@ function createMarkers(response) {
                 lon = response[key]['data'].bounding_box[i][0];
 
                 // create marker
-                marker = L.marker([lat, lon])
+                marker = L.marker([lat, lon], {icon: twitterIcon})
                     .bindPopup("<img src=" + response[key]['data'].profile_image_url[i] + ">" + "<br>"
                     + "<h3>" + response[key]['data'].user[i] + "</h3>"
                     + "<p>" + response[key]['data'].text[i] + "</p>")
@@ -138,7 +148,7 @@ function createMarkers(response) {
 }
 
 //create map
-function createMap(markers, map_coords, zoom) {
+function createMap(markers, map_coords, zoom, feels) {
     map = L.map("map-id", {
         center: [map_coords[0], map_coords[1]],
         zoom: zoom,
