@@ -2,6 +2,7 @@ from flask import Flask, render_template, jsonify, redirect
 from flask_pymongo import PyMongo
 import tweepy1
 import google1
+import json
 
 app = Flask(__name__)
 mongo = PyMongo(app)
@@ -27,6 +28,12 @@ def twitterize():
     data = tweepy1.twitterize()
     return jsonify(data)
 
+@app.route('/getLastData')
+def getData():
+    with open('data.txt') as json_file:  
+        data = json.load(json_file)
+    return jsonify(data)
+   
 @app.route('/map')
 def map():
     return render_template('map.html')

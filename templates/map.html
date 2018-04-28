@@ -18,9 +18,15 @@
 </head>
 <body>
 <div id="map-id" style="width: 600px; height: 400px;"></div>
-<br><br><br><br><br>
+<br>
+<div class="form-group">
+    <label for="selDataset">Choose your city:</label>
+    <br>
+    <select class="col-sm-2 col-form-control" id="selDataset" onchange="optionChanged(this.value)">
+    </select>
+</div>
+<br><br>
 <div id="gg1" class="gauge"></div>
-<div id="gg2" class="gauge" data-value="25"></div>
 <script src="http://127.0.0.1:8080/twitter.js"></script>
 <script src="http://127.0.0.1:8080/justgage.js"></script>
 <script src="http://127.0.0.1:8080/raphael-2.1.4.min.js"></script>
