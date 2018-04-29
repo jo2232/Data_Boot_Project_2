@@ -26,7 +26,8 @@ def index():
 @app.route('/twitterize')
 def twitterize():
     data = tweepy1.twitterize()
-    return jsonify(data)
+    jsonify(data)
+    return redirect("http://127.0.0.1:5000/", code=302)
 
 @app.route('/getLastData')
 def getData():
