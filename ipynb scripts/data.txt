@@ -1,0 +1,1642 @@
+{
+  "Atlanta": {
+    "data": {
+      "bounding_box": [
+        [
+          -84.13709,
+          33.858397
+        ],
+        [
+          -84.270412,
+          33.825212
+        ],
+        [
+          -84.431709,
+          33.811235
+        ],
+        [
+          -84.140477,
+          33.850082
+        ],
+        [
+          -84.470338,
+          33.922592
+        ],
+        [
+          -84.063689,
+          33.636276
+        ],
+        [
+          -84.595363,
+          33.732366
+        ],
+        [
+          -84.397022,
+          33.625896
+        ],
+        [
+          -84.473533,
+          33.753212
+        ],
+        [
+          -84.458442,
+          33.604039
+        ]
+      ],
+      "comp_sent": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.4019,
+        -0.6124,
+        -0.296,
+        -0.296
+      ],
+      "coords": [
+        [
+          -84.38944101,
+          33.73561806
+        ],
+        null,
+        [
+          -84.58,
+          33.94
+        ],
+        [
+          -84.48068839,
+          33.71985391
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "created_at": [
+        "Sun Apr 29 19:16:31 +0000 2018",
+        "Sun Apr 29 19:21:48 +0000 2018",
+        "Sun Apr 29 19:26:00 +0000 2018",
+        "Sun Apr 29 19:27:03 +0000 2018",
+        "Sun Apr 29 19:27:03 +0000 2018",
+        "Sun Apr 29 19:27:02 +0000 2018",
+        "Sun Apr 29 19:29:10 +0000 2018",
+        "Sun Apr 29 19:29:08 +0000 2018",
+        "Sun Apr 29 19:30:13 +0000 2018",
+        "Sun Apr 29 19:30:12 +0000 2018"
+      ],
+      "followers_count": [
+        104,
+        559,
+        9772,
+        853,
+        2212,
+        5279,
+        566,
+        302,
+        1157,
+        559
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/716179818262319104/cA9u6gAH_normal.jpg",
+        "http://pbs.twimg.com/profile_images/924521264382914560/DCTXB4ey_normal.jpg",
+        "http://pbs.twimg.com/profile_images/922189579347775489/zeaRbhA-_normal.jpg",
+        "http://pbs.twimg.com/profile_images/378800000016238217/e48b13f419dafd37e6675beb2106743a_normal.jpeg",
+        "http://pbs.twimg.com/profile_images/989589877867143170/QFgU3YvW_normal.jpg",
+        "http://pbs.twimg.com/profile_images/990635055734194182/GqVx8TUs_normal.jpg",
+        "http://pbs.twimg.com/profile_images/983559677475807232/WaxeEJHW_normal.jpg",
+        "http://pbs.twimg.com/profile_images/880268086334693376/ukNlS78W_normal.jpg",
+        "http://pbs.twimg.com/profile_images/988246488496123905/F68UnPrx_normal.jpg",
+        "http://pbs.twimg.com/profile_images/924521264382914560/DCTXB4ey_normal.jpg"
+      ],
+      "text": [
+        "Just a little taste of last night with 68willic @ Georgia State Stadium https://t.co/SqDnyjpBkN",
+        "These calls be late",
+        "\u2600\ufe0fDay party\ud83d\udc83 at my crib \ud83c\udfda u invited\u2709\n.\n.\n#AFNation #AFNation #AFNation #AFNation @ Cobb County,\u2026 https://t.co/JVtHoaBwg6",
+        "Just posted a photo @ Cascade Springs Nature Preserve https://t.co/QielTswzK7",
+        "Close it out Cavs",
+        "@manthony314 Me either",
+        "damn myles",
+        "Nah I died \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/LscmwAceNb",
+        "Ain\u2019t no way imma be some man\u2019s 4th baby mother because I know which shop I would be headed to...",
+        "No rim protection"
+      ],
+      "user": [
+        "schizofreudia",
+        "TheOnlyNasa",
+        "TreyxBall",
+        "tcstonemountain",
+        "NardBell",
+        "JazzKellie",
+        "knownasAl",
+        "somethincool_",
+        "ashsoboujee",
+        "TheOnlyNasa"
+      ]
+    },
+    "gps": [
+      -84.387982,
+      33.748995
+    ]
+  },
+  "Chicago": {
+    "data": {
+      "bounding_box": [
+        [
+          -87.962726,
+          41.747986
+        ],
+        [
+          -87.420899,
+          42.253516
+        ],
+        [
+          -87.829114,
+          41.935304
+        ],
+        [
+          -87.909127,
+          41.646037
+        ],
+        [
+          -87.624066,
+          41.910865
+        ],
+        [
+          -88.000012,
+          42.282692
+        ],
+        [
+          -86.987776,
+          41.722596
+        ],
+        [
+          -87.753616,
+          41.852393
+        ],
+        [
+          -87.812352,
+          41.732922
+        ],
+        [
+          -87.688351,
+          41.877119
+        ],
+        [
+          -87.877311,
+          41.557188
+        ],
+        [
+          -87.891166,
+          41.937126
+        ]
+      ],
+      "comp_sent": [
+        0.755,
+        0.6369,
+        0.0,
+        -0.6908,
+        0.0,
+        0.8126,
+        0.0,
+        -0.34,
+        0.5994,
+        0.4215,
+        0.0,
+        0.25
+      ],
+      "coords": [
+        null,
+        null,
+        null,
+        null,
+        [
+          -87.63175,
+          41.88088
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "created_at": [
+        "Sun Apr 29 19:16:38 +0000 2018",
+        "Sun Apr 29 19:17:43 +0000 2018",
+        "Sun Apr 29 19:19:47 +0000 2018",
+        "Sun Apr 29 19:19:47 +0000 2018",
+        "Sun Apr 29 19:24:01 +0000 2018",
+        "Sun Apr 29 19:25:04 +0000 2018",
+        "Sun Apr 29 19:25:03 +0000 2018",
+        "Sun Apr 29 19:26:07 +0000 2018",
+        "Sun Apr 29 19:26:07 +0000 2018",
+        "Sun Apr 29 19:28:13 +0000 2018",
+        "Sun Apr 29 19:29:15 +0000 2018",
+        "Sun Apr 29 19:31:21 +0000 2018"
+      ],
+      "followers_count": [
+        557,
+        162,
+        183,
+        631,
+        104,
+        90,
+        1376,
+        575,
+        1846,
+        449,
+        2245,
+        1669
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/988928773696442368/dkuOAwZ7_normal.jpg",
+        "http://pbs.twimg.com/profile_images/983080269199675392/6KBPjLj3_normal.jpg",
+        "http://pbs.twimg.com/profile_images/914886753974185984/7OSzmRKt_normal.jpg",
+        "http://pbs.twimg.com/profile_images/988198760302997505/sHL-_g_2_normal.jpg",
+        "http://pbs.twimg.com/profile_images/515921529058889728/JKdueoTq_normal.jpeg",
+        "http://pbs.twimg.com/profile_images/975875533090238465/2uooFpJg_normal.jpg",
+        "http://pbs.twimg.com/profile_images/990252217889361920/5-Z2u5QN_normal.jpg",
+        "http://pbs.twimg.com/profile_images/961632492267634688/8VUExDkM_normal.jpg",
+        "http://pbs.twimg.com/profile_images/979007743909683200/CspNOrov_normal.jpg",
+        "http://pbs.twimg.com/profile_images/968698576401522689/-GRuqZfa_normal.jpg",
+        "http://pbs.twimg.com/profile_images/983186869398769666/zlyrwCz1_normal.jpg",
+        "http://pbs.twimg.com/profile_images/859191990646439937/DSsPwADy_normal.jpg"
+      ],
+      "text": [
+        "@multiology THIS MAKES ME SO HAPPY",
+        "I love you \ud83d\ude2d https://t.co/mLVHmFmvEZ",
+        "Lebron is wearing a towel cape",
+        "Tryna figure out if they gone make Kill Bill 3 starring Bill Cosby",
+        "#hairbydebjones #toofaced #makeup #makeupandhairbytraci #mobmakeup #urbandecay #dinairairbrush\u2026 https://t.co/mIPlWCweNt",
+        "@gaylechoo @kdb150 @the_KillerCroc @ClintEckstein @KXLJimferretti @GeorgeTakei My best friend has cerebral palsy as\u2026 https://t.co/CXbkX8Z4Db",
+        "Mood asf https://t.co/L8afAw1KAF",
+        "Going to get my Gun this week \ud83e\udd19\ud83c\udffd",
+        "Congratulations cousin\ud83d\udc89\ud83d\udda4 https://t.co/uuTjVrvVX2",
+        "Birthday really snuck up on me lol.",
+        "what demographic actually is considered \u201cpeople of color\u201d? because there\u2019s hella non black ethnic minorities that b\u2026 https://t.co/P54NiUkpyp",
+        "@RPSeawright @AdamMGrant In truth, she wasn't supposed to be funny. She was supposed to insulting to some very base\u2026 https://t.co/dLmf72ai9d"
+      ],
+      "user": [
+        "iH0SEOK",
+        "Cila_Linda",
+        "LaurenMRosen",
+        "JOSEDRIPP",
+        "Traci2779",
+        "nicktheman287",
+        "__j0r",
+        "TazzyStarBad",
+        "abreeyahsymone",
+        "JuanTheSkater",
+        "TrilliamClinton",
+        "brianportnoy"
+      ]
+    },
+    "gps": [
+      -87.629798,
+      41.878114
+    ]
+  },
+  "Dallas": {
+    "data": {
+      "bounding_box": [
+        [
+          -96.788082,
+          32.833809
+        ],
+        [
+          -96.582384,
+          32.550529
+        ],
+        [
+          -97.043236,
+          32.836061
+        ],
+        [
+          -97.106847,
+          32.853683
+        ],
+        [
+          -96.543791,
+          32.58888
+        ],
+        [
+          -96.782896,
+          32.55539
+        ],
+        [
+          -96.357226,
+          32.549163
+        ],
+        [
+          -96.648562,
+          32.399017
+        ],
+        [
+          -97.633703,
+          32.907593
+        ],
+        [
+          -97.098151,
+          32.305039
+        ],
+        [
+          -96.889024,
+          32.728923
+        ],
+        [
+          -96.780143,
+          32.972367
+        ],
+        [
+          -96.689072,
+          32.803068
+        ],
+        [
+          -96.77973,
+          33.014003
+        ],
+        [
+          -96.923427,
+          33.054822
+        ],
+        [
+          -96.783514,
+          32.637896
+        ],
+        [
+          -96.93254,
+          33.178793
+        ],
+        [
+          -96.91932,
+          32.854464
+        ],
+        [
+          -96.866411,
+          33.021114
+        ]
+      ],
+      "comp_sent": [
+        0.0,
+        0.0,
+        0.4019,
+        0.2023,
+        0.0,
+        0.3612,
+        0.5473,
+        0.0,
+        0.0,
+        0.8346,
+        -0.5106,
+        0.0,
+        -0.0772,
+        0.3612,
+        -0.5574,
+        0.0772,
+        0.4939,
+        0.5719,
+        -0.296
+      ],
+      "coords": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "created_at": [
+        "Sun Apr 29 19:16:13 +0000 2018",
+        "Sun Apr 29 19:16:13 +0000 2018",
+        "Sun Apr 29 19:17:17 +0000 2018",
+        "Sun Apr 29 19:17:16 +0000 2018",
+        "Sun Apr 29 19:17:15 +0000 2018",
+        "Sun Apr 29 19:18:20 +0000 2018",
+        "Sun Apr 29 19:19:22 +0000 2018",
+        "Sun Apr 29 19:20:25 +0000 2018",
+        "Sun Apr 29 19:21:27 +0000 2018",
+        "Sun Apr 29 19:22:32 +0000 2018",
+        "Sun Apr 29 19:23:36 +0000 2018",
+        "Sun Apr 29 19:23:36 +0000 2018",
+        "Sun Apr 29 19:24:38 +0000 2018",
+        "Sun Apr 29 19:24:37 +0000 2018",
+        "Sun Apr 29 19:24:36 +0000 2018",
+        "Sun Apr 29 19:25:42 +0000 2018",
+        "Sun Apr 29 19:25:40 +0000 2018",
+        "Sun Apr 29 19:27:48 +0000 2018",
+        "Sun Apr 29 19:28:48 +0000 2018"
+      ],
+      "followers_count": [
+        572,
+        2574,
+        2639,
+        5149,
+        1120,
+        812,
+        478,
+        213,
+        5173,
+        674,
+        1167,
+        827,
+        516,
+        908,
+        5069,
+        971,
+        1599,
+        123,
+        5058
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/985325392402829312/tmWDMZBi_normal.jpg",
+        "http://pbs.twimg.com/profile_images/786401482996232192/nEmYJJQg_normal.jpg",
+        "http://pbs.twimg.com/profile_images/986737905279356928/T3lzgmdu_normal.jpg",
+        "http://pbs.twimg.com/profile_images/987762371622944768/y20iwv3K_normal.jpg",
+        "http://pbs.twimg.com/profile_images/988093355283353602/LGISG_yL_normal.jpg",
+        "http://pbs.twimg.com/profile_images/876172661528907776/szMJNFa5_normal.jpg",
+        "http://pbs.twimg.com/profile_images/955267489558073345/vtiPwe2M_normal.jpg",
+        "http://pbs.twimg.com/profile_images/989219193471062018/C4FymtQD_normal.jpg",
+        "http://pbs.twimg.com/profile_images/959253216302108676/Pvl1COar_normal.jpg",
+        "http://pbs.twimg.com/profile_images/944810184936951809/R91cRB7P_normal.jpg",
+        "http://pbs.twimg.com/profile_images/990400682908946432/yLd0qlgL_normal.jpg",
+        "http://pbs.twimg.com/profile_images/989673726022168576/tndp1c53_normal.jpg",
+        "http://pbs.twimg.com/profile_images/986053389258813441/hgs374aZ_normal.jpg",
+        "http://pbs.twimg.com/profile_images/943882001756688384/cu3WMNKR_normal.jpg",
+        "http://pbs.twimg.com/profile_images/959932746184445953/wC25vnCc_normal.jpg",
+        "http://pbs.twimg.com/profile_images/976218264224321536/sHUeaFky_normal.jpg",
+        "http://pbs.twimg.com/profile_images/940214039199727616/04JqNyOa_normal.jpg",
+        "http://pbs.twimg.com/profile_images/950908116463308800/v493L7c-_normal.jpg",
+        "http://pbs.twimg.com/profile_images/990530958167244800/Wz19uylr_normal.jpg"
+      ],
+      "text": [
+        "@burntguss wowza",
+        "More so a result of GS vs Houston. Cause Cavs not anywhere close to either of those teams. https://t.co/k5Vt9vTOBg",
+        "definitely me https://t.co/pMdIp1ioc7",
+        "@PhillipWolf @NFL @Redskins @DhaSickest Super fake news",
+        "if this ain\u2019t me bro https://t.co/83x2g9DZkd",
+        "Tryna be the reason you smile DAILY",
+        "@c_chamberss @YahooSports @YahooSportsNBA Apparently it does since he's the one that said it LOL",
+        "@AaliyahGuwop Girl it is we eat it all the time",
+        "https://t.co/qkesgkwzbr",
+        "Aye bang bang!!!!!! Y\u2019all like K Love now.",
+        "hating and being angry/disappointed are different things people",
+        "Gas $3.99 in Chicago, i humbled myself quick",
+        "a bittersweet ending to cougarettes \u2764\ufe0f https://t.co/m1jl2wgPpS",
+        "This brand step their game up the drink is certainly better than Gatorade bitter flavors https://t.co/83zHtc1cBs",
+        "Ain\u2019t shit https://t.co/Z4caKuEYnH",
+        "When I don\u2019t get what I want https://t.co/j4DBvhxMiQ",
+        "If someone could recommend to me a tv show with 5+ seasons, 45 minutes episodes and a good plot to distract me from\u2026 https://t.co/xdir7AR1cW",
+        "@michelleisawolf Texas Loves You @michelleisawolf",
+        "Yo I could really tell y\u2019all some powerful ass shit, but I don\u2019t want to sound \u270c\ud83c\udffecrazy\u270c\ud83c\udffeso I\u2019ll put it in my book t\u2026 https://t.co/Lba11LA1OR"
+      ],
+      "user": [
+        "umabomptonx",
+        "DezScott",
+        "IcyBands",
+        "JVFerg",
+        "kylieeroseee",
+        "MsxSenoj_13",
+        "918_850",
+        "_Chellaaaaaa",
+        "Adelkiiis",
+        "CoachJ_NCS",
+        "sivansjedi",
+        "almighty_ajaxk",
+        "dianne_radic",
+        "ashtonDFW2004",
+        "staym0ist",
+        "jenaeeelaurenn",
+        "douglascowman",
+        "TeeTimeTomTexas",
+        "JvckCity_"
+      ]
+    },
+    "gps": [
+      -96.796988,
+      32.776664
+    ]
+  },
+  "Kansas City": {
+    "data": {
+      "bounding_box": [
+        [
+          -94.725023,
+          39.025016
+        ],
+        [
+          -94.398126,
+          38.763297
+        ],
+        [
+          -94.366952,
+          39.129817
+        ],
+        [
+          -94.498771,
+          38.802286
+        ],
+        [
+          -94.711884,
+          39.441931
+        ],
+        [
+          -94.803717,
+          38.92351
+        ],
+        [
+          -94.817483,
+          38.973772
+        ],
+        [
+          -94.136581,
+          39.063636
+        ],
+        [
+          -94.479788,
+          39.262415
+        ],
+        [
+          -94.064828,
+          38.544257
+        ],
+        [
+          -94.251088,
+          39.3438
+        ],
+        [
+          -94.766966,
+          38.588808
+        ],
+        [
+          -94.552316,
+          39.047688
+        ],
+        [
+          -94.633317,
+          39.219708
+        ],
+        [
+          -94.497664,
+          38.788518
+        ],
+        [
+          -94.692006,
+          39.322662
+        ],
+        [
+          -94.578734,
+          39.153523
+        ],
+        [
+          -94.217922,
+          39.213099
+        ],
+        [
+          -94.664188,
+          38.796231
+        ],
+        [
+          -94.363585,
+          38.523837
+        ],
+        [
+          -95.062592,
+          39.097342
+        ],
+        [
+          -94.111061,
+          39.010189
+        ]
+      ],
+      "comp_sent": [
+        0.4215,
+        0.0,
+        0.5106,
+        0.9247,
+        0.6408,
+        0.0,
+        0.0,
+        0.6988,
+        0.0,
+        0.4199,
+        0.0,
+        0.0,
+        -0.34,
+        -0.1027,
+        -0.3182,
+        0.0,
+        -0.296,
+        0.0,
+        0.8271,
+        0.0,
+        -0.3818,
+        0.8207
+      ],
+      "coords": [
+        null,
+        null,
+        null,
+        [
+          -94.5906349,
+          39.061252
+        ],
+        null,
+        null,
+        [
+          -94.5809,
+          39.0999
+        ],
+        null,
+        null,
+        null,
+        [
+          -94.42410371,
+          39.03516103
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "created_at": [
+        "Sun Apr 29 19:16:55 +0000 2018",
+        "Sun Apr 29 19:16:43 +0000 2018",
+        "Sun Apr 29 19:17:51 +0000 2018",
+        "Sun Apr 29 19:17:49 +0000 2018",
+        "Sun Apr 29 19:19:00 +0000 2018",
+        "Sun Apr 29 19:21:10 +0000 2018",
+        "Sun Apr 29 19:22:08 +0000 2018",
+        "Sun Apr 29 19:23:10 +0000 2018",
+        "Sun Apr 29 19:24:13 +0000 2018",
+        "Sun Apr 29 19:24:05 +0000 2018",
+        "Sun Apr 29 19:25:21 +0000 2018",
+        "Sun Apr 29 19:26:20 +0000 2018",
+        "Sun Apr 29 19:26:19 +0000 2018",
+        "Sun Apr 29 19:26:17 +0000 2018",
+        "Sun Apr 29 19:26:14 +0000 2018",
+        "Sun Apr 29 19:29:24 +0000 2018",
+        "Sun Apr 29 19:30:30 +0000 2018",
+        "Sun Apr 29 19:30:27 +0000 2018",
+        "Sun Apr 29 19:30:26 +0000 2018",
+        "Sun Apr 29 19:31:42 +0000 2018",
+        "Sun Apr 29 19:31:40 +0000 2018",
+        "Sun Apr 29 19:31:32 +0000 2018"
+      ],
+      "followers_count": [
+        805,
+        189,
+        1499,
+        289,
+        413,
+        72,
+        551,
+        1293,
+        557,
+        1029,
+        764,
+        587,
+        1596,
+        73,
+        727,
+        587,
+        717,
+        85327,
+        1596,
+        356,
+        1060,
+        268
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/986676318489272320/0JigNxUj_normal.jpg",
+        "http://pbs.twimg.com/profile_images/946780405469990912/Btph8R6h_normal.jpg",
+        "http://pbs.twimg.com/profile_images/944254852334530560/ccY71ksZ_normal.jpg",
+        "http://pbs.twimg.com/profile_images/521454326569766912/-nb5wVDW_normal.jpeg",
+        "http://pbs.twimg.com/profile_images/972328295122505729/a4tP7ATW_normal.jpg",
+        "http://pbs.twimg.com/profile_images/782358796580581376/Hy6GhgGA_normal.jpg",
+        "http://pbs.twimg.com/profile_images/1762766754/head1b_normal.gif",
+        "http://pbs.twimg.com/profile_images/973982526384541697/n1W9J8E9_normal.jpg",
+        "http://pbs.twimg.com/profile_images/986069899557646336/XlZl_s5d_normal.jpg",
+        "http://pbs.twimg.com/profile_images/985017939802783744/80lnOpOa_normal.jpg",
+        "http://pbs.twimg.com/profile_images/883831393511505920/KA5HuW4q_normal.jpg",
+        "http://pbs.twimg.com/profile_images/940032151017234438/NDH6Jz5j_normal.jpg",
+        "http://pbs.twimg.com/profile_images/920467728502284289/lhbmtEoL_normal.jpg",
+        "http://pbs.twimg.com/profile_images/468933593264553986/BZOeUDje_normal.jpeg",
+        "http://pbs.twimg.com/profile_images/990656715963105281/LxWTtovQ_normal.jpg",
+        "http://pbs.twimg.com/profile_images/940032151017234438/NDH6Jz5j_normal.jpg",
+        "http://pbs.twimg.com/profile_images/990652578290642945/sMimfj8Q_normal.jpg",
+        "http://pbs.twimg.com/profile_images/921779320040894466/FqQMan3q_normal.jpg",
+        "http://pbs.twimg.com/profile_images/920467728502284289/lhbmtEoL_normal.jpg",
+        "http://pbs.twimg.com/profile_images/988196232978993154/niObxwoW_normal.jpg",
+        "http://pbs.twimg.com/profile_images/954825602388955137/FEQQYOAI_normal.jpg",
+        "http://pbs.twimg.com/profile_images/752873681261502465/igqjBW-b_normal.jpg"
+      ],
+      "text": [
+        "Me: *buys decent length, non-hoe shorts*\n\nMy thighs: lol https://t.co/eDvRoBcZyi https://t.co/v14geIThOV",
+        "This week\u2019s schedule: Monday, Tuesday, Wednesday, Thursday FRIDAY MAY THE 4TH BE WITH  YOU! And #SoloAStarWarsStory\u2026 https://t.co/rKoKzfb256",
+        "An important read to understand the credits if applying for disability. https://t.co/S5dF2gkShg",
+        "Happy birthday Janet!! So much fun celebrating! \ud83c\udf82\ud83c\udf7b\ud83c\udf89 @ Hamburger Mary's Kansas City! https://t.co/gYpZmYndX4",
+        "LMFAO https://t.co/YsonLc4sJt",
+        "Beyond racial discrimination at Dance competition today ... girls in costumes of \u201cIndians\u201d and maids dancing to \u201cWe\u2026 https://t.co/ZfzCqxakts",
+        "Urban Tetris. @ Downtown Kansas City https://t.co/MyeWA2VcDx",
+        "Kevin Love turnt!!",
+        "@shaupt12 https://t.co/CUTfYW6NLu",
+        "@BriannaSwehla Thank you so much! \u263a\ufe0f",
+        "FLOWER TIME (@ Sutherlands in Independence, MO) https://t.co/azPVZynUX5",
+        "@mcrose14 @looneymick @KenTremendous  https://t.co/BEV4LRb6Vc",
+        "LEBRON SHOOT THE BALL",
+        "Hard afternoon of work https://t.co/xY43FHwFsB",
+        "You can either fight for what you want, or give up on it",
+        "@JessicasMind111 @Jakep010923 @TheJordanRachel @michelleisawolf  https://t.co/uEXTKAGSkH",
+        "@baydorzofficial The stone the builder refuse, shall be the head corner stone. \ud83c\udf3f",
+        "Cheslor Cuthbert homer ends a. 0-14  slump. First RBI since March 31. Had gone 18 games without an RBI dating back\u2026 https://t.co/KDnidLZQBl",
+        "Clearly a foul on Turner lol hand full of Jersey",
+        "@SA_Scholarships \u0627\u0644\u0644\u0647 \u064a\u0648\u0641\u0642\u0647\u0645 \u0648\u064a\u0631\u0632\u0642\u0647\u0645 \u0627\u0644\u0628\u0639\u062b\u0647",
+        "Dan - \u201cYeah I actually cried this morning watching that\u201d \ud83d\ude2d\u2764\ufe0f https://t.co/v5sqcWDJWd",
+        "Huge foul by Myles there. Not only is Indiana\u2019s best defensive rebounder DQ\u2019d, it gives the Cavs more time to extend the lead."
+      ],
+      "user": [
+        "chloethacat",
+        "HistoryThruFilm",
+        "legalLMSW",
+        "RachelDanley",
+        "KaylaDearinger",
+        "MsilvaONHS",
+        "kevangibbs",
+        "Blloyd_",
+        "JordynSackman",
+        "Yo_PalAl",
+        "ghettosaralee",
+        "johnVasInVictor",
+        "AWill_35",
+        "cropman13",
+        "PGates_11_",
+        "johnVasInVictor",
+        "x_evy",
+        "goldbergkc",
+        "AWill_35",
+        "engomaralanzi",
+        "_Jadeddd_",
+        "dannykay2323"
+      ]
+    },
+    "gps": [
+      -94.578567,
+      39.099727
+    ]
+  },
+  "Las Vegas": {
+    "data": {
+      "bounding_box": [
+        [
+          -114.927646,
+          36.223174
+        ],
+        [
+          -114.808059,
+          36.451752
+        ],
+        [
+          -115.023692,
+          36.278763
+        ],
+        [
+          -115.019679,
+          36.203302
+        ],
+        [
+          -115.304549,
+          36.47294
+        ],
+        [
+          -115.273306,
+          36.116887
+        ],
+        [
+          -115.08104,
+          35.804446
+        ],
+        [
+          -115.158032,
+          36.259408
+        ],
+        [
+          -115.473406,
+          36.059388
+        ],
+        [
+          -115.35695,
+          36.449936
+        ],
+        [
+          -115.079428,
+          35.936687
+        ],
+        [
+          -115.333065,
+          35.744874
+        ],
+        [
+          -115.306039,
+          36.120195
+        ],
+        [
+          -115.211578,
+          36.083915
+        ],
+        [
+          -114.907846,
+          35.608964
+        ],
+        [
+          -115.708232,
+          36.394148
+        ],
+        [
+          -115.177035,
+          36.030185
+        ]
+      ],
+      "comp_sent": [
+        -0.34,
+        0.0,
+        0.4588,
+        0.5848,
+        -0.3818,
+        0.0,
+        0.0,
+        0.0,
+        0.8649,
+        0.0,
+        0.0,
+        0.0,
+        -0.3182,
+        0.0,
+        0.0,
+        0.0,
+        0.7345
+      ],
+      "coords": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          -115.042021,
+          36.067011
+        ],
+        null,
+        null
+      ],
+      "created_at": [
+        "Sun Apr 29 19:17:07 +0000 2018",
+        "Sun Apr 29 19:19:17 +0000 2018",
+        "Sun Apr 29 19:19:15 +0000 2018",
+        "Sun Apr 29 19:19:14 +0000 2018",
+        "Sun Apr 29 19:20:18 +0000 2018",
+        "Sun Apr 29 19:22:26 +0000 2018",
+        "Sun Apr 29 19:22:23 +0000 2018",
+        "Sun Apr 29 19:22:21 +0000 2018",
+        "Sun Apr 29 19:24:31 +0000 2018",
+        "Sun Apr 29 19:24:30 +0000 2018",
+        "Sun Apr 29 19:24:30 +0000 2018",
+        "Sun Apr 29 19:25:34 +0000 2018",
+        "Sun Apr 29 19:25:33 +0000 2018",
+        "Sun Apr 29 19:26:37 +0000 2018",
+        "Sun Apr 29 19:27:41 +0000 2018",
+        "Sun Apr 29 19:27:36 +0000 2018",
+        "Sun Apr 29 19:30:46 +0000 2018"
+      ],
+      "followers_count": [
+        72,
+        2922,
+        1092,
+        1060,
+        1060,
+        349,
+        1444,
+        7,
+        119,
+        867,
+        182,
+        359,
+        363,
+        987,
+        1029,
+        171,
+        1511
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/967458778542088192/f3BZgV6T_normal.jpg",
+        "http://pbs.twimg.com/profile_images/975934124467761152/IV5d7X-5_normal.jpg",
+        "http://pbs.twimg.com/profile_images/823426922042400768/EA7oapUv_normal.jpg",
+        "http://pbs.twimg.com/profile_images/939689268389339137/CFCGCYXn_normal.jpg",
+        "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "http://pbs.twimg.com/profile_images/973695131609055232/ARlJo12h_normal.jpg",
+        "http://pbs.twimg.com/profile_images/975414110362857472/NgH6Ogvc_normal.jpg",
+        "http://pbs.twimg.com/profile_images/979400505087676416/9HyWil97_normal.jpg",
+        "http://pbs.twimg.com/profile_images/989352097085669376/yl2Xcky0_normal.jpg",
+        "http://pbs.twimg.com/profile_images/988607799692181504/NqI8FoDm_normal.jpg",
+        "http://pbs.twimg.com/profile_images/956668485383331840/UIGcMVpb_normal.jpg",
+        "http://pbs.twimg.com/profile_images/913064728020230145/3Vwz11uw_normal.jpg",
+        "http://pbs.twimg.com/profile_images/963772738358820866/tZraroL2_normal.jpg",
+        "http://pbs.twimg.com/profile_images/928764170643927041/4UhRgx0B_normal.jpg",
+        "http://pbs.twimg.com/profile_images/1247539997/myProfileImage_normal.jpg",
+        "http://pbs.twimg.com/profile_images/887131254545465345/22DdMlYr_normal.jpg",
+        "http://pbs.twimg.com/profile_images/906843388468658176/uFv4jlYl_normal.jpg"
+      ],
+      "text": [
+        "Waffle house arrest: Chikesia Clemons speaks out for the first time https://t.co/GFPZMV2cAs",
+        "@AsaiahZiv \ud83d\udd4a\ud83c\udfac\ud83d\ude4f\ud83c\udffc\u2728",
+        "I just rocked the vote for @HollyxHawkes for 2018 @XBIZ CAM Awards presented by @MyFreeCams https://t.co/h0lueB2Dnc #xbizcamawards",
+        "Yes...all of this! :) #DellEMCGPS https://t.co/lp9fRDVJTq",
+        "A still no comment by the bigot that pretends to run this country https://t.co/2YX2TEnL3V",
+        "Foh \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/k3B6JJyRUm",
+        "MY DAWG RESPONDED!\ud83d\ude24",
+        "@AmericadeCali En",
+        "Thank you @TheVacationDR and @TWLasVegas for this wonderful opportunity to attend the Milken Conference 2018 in bea\u2026 https://t.co/bKmLWE9u6D",
+        "@CWFAZTV @CWFHollywood @PAvalon @GinoTOLDYOUSO @MannyLemons @TheRealEJSparks @SuedeThompson @WrestlingTribe\u2026 https://t.co/S8P3WHpsP1",
+        "@ceschi I immediately thought \u201cma-ma-ma-ma-ma-Mary\u201d after reading your tweet.",
+        "Lulu gets a little Pilates instruction from @ClubPilatesLV #pilates https://t.co/zUcyVpl1Gy",
+        "@TraeJeff Ermahgerd for the slightest second I really thought that was us \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f\ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f wouldn\u2019t be far fetched smh \ud83e\udd37\ud83c\udffe\u200d\u2640\ufe0f\ud83d\ude02",
+        "Data mapping is key for #GDPR compliance. Index unstructured and backup data with @IndexEngines , remediate tape wi\u2026 https://t.co/eCLonfvZmT",
+        "I'm at @SunglassHut in Henderson, NV https://t.co/16yGVNMdUA",
+        "@TMobile @JohnLegere @sprint @marceloclaure How long until current Sprint customers get switched over to the T-Mobile towers??",
+        "Time to head over to Palazzo to catch some vSphere 6.5 goodness from @vCenterNerd @gminks and @davidstamen. Hope they have cold beers too!"
+      ],
+      "user": [
+        "DDCola",
+        "4kgotit",
+        "Rzrkiss",
+        "Social4Sarah",
+        "Shawnpe73155",
+        "NikkiBifc",
+        "CliffGotDaJuice",
+        "AndresWallace8",
+        "WilloftheWestLV",
+        "JodyTheWrestler",
+        "XochiMontenegro",
+        "fitchixclub",
+        "laurasawkward",
+        "VossmanVoss",
+        "kobi001",
+        "TopMarketSports",
+        "kev_johnson"
+      ]
+    },
+    "gps": [
+      -115.13983,
+      36.169941
+    ]
+  },
+  "Los Angeles": {
+    "data": {
+      "bounding_box": [
+        [
+          -118.651946,
+          34.029204
+        ],
+        [
+          -118.623509,
+          33.844412
+        ],
+        [
+          -118.519453,
+          34.277632
+        ],
+        [
+          -118.485161,
+          34.315327
+        ],
+        [
+          -118.167669,
+          34.231119
+        ]
+      ],
+      "comp_sent": [
+        0.6588,
+        -0.5719,
+        0.0,
+        -0.1759,
+        0.0
+      ],
+      "coords": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "created_at": [
+        "Sun Apr 29 19:16:27 +0000 2018",
+        "Sun Apr 29 19:21:42 +0000 2018",
+        "Sun Apr 29 19:24:52 +0000 2018",
+        "Sun Apr 29 19:26:57 +0000 2018",
+        "Sun Apr 29 19:29:03 +0000 2018"
+      ],
+      "followers_count": [
+        26270,
+        308,
+        7712,
+        162,
+        291
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/839619651118084096/MTh88rY9_normal.jpg",
+        "http://pbs.twimg.com/profile_images/937788803657469952/exynKfE3_normal.jpg",
+        "http://pbs.twimg.com/profile_images/908031391845289985/dCqS4ZyI_normal.jpg",
+        "http://pbs.twimg.com/profile_images/792238178354638849/BReumaqt_normal.jpg",
+        "http://pbs.twimg.com/profile_images/990182064778457088/zdvkUVaZ_normal.jpg"
+      ],
+      "text": [
+        "@WorkforceVan @SierraCollege @SacHackerLab @CalCommColleges @cccmakerspace @MakerEdOrg @MakerStudios @gurminder2014 Awesome!",
+        "I hate LAX",
+        "@ThatVDOVault @tcm @BenMank77 @TheJeffBridges @ChineseTheatres @JoshMankiewicz The enlightenment came afterwards wi\u2026 https://t.co/2S3vRHbics",
+        "@BreitbartNews Pretend R is a D on DNC payroll!",
+        "@zaddy_lea U say this every other week but go off"
+      ],
+      "user": [
+        "heatherwetzler",
+        "emfo805",
+        "mrpicturesfilm",
+        "CA72Voter",
+        "_joolsz_"
+      ]
+    },
+    "gps": [
+      -118.243685,
+      34.052234
+    ]
+  },
+  "Miami": {
+    "data": {
+      "bounding_box": [
+        [
+          -80.149677,
+          25.895889
+        ],
+        [
+          -80.305865,
+          25.748997
+        ],
+        [
+          -80.067044,
+          25.500044
+        ],
+        [
+          -80.427437,
+          25.96653
+        ],
+        [
+          -80.077196,
+          26.115921
+        ],
+        [
+          -80.128379,
+          26.221338
+        ],
+        [
+          -80.583745,
+          25.63923
+        ],
+        [
+          -80.27568,
+          25.933288
+        ],
+        [
+          -80.191311,
+          25.463294
+        ],
+        [
+          -79.988057,
+          25.743999
+        ],
+        [
+          -80.213726,
+          25.696721
+        ],
+        [
+          -80.25531,
+          25.670779
+        ]
+      ],
+      "comp_sent": [
+        0.0,
+        0.0,
+        0.0,
+        -0.2732,
+        0.0,
+        -0.5574,
+        0.0,
+        0.2263,
+        0.0,
+        0.1779,
+        0.7351,
+        0.0
+      ],
+      "coords": [
+        null,
+        [
+          -80.37168503,
+          25.74934253
+        ],
+        null,
+        null,
+        null,
+        null,
+        [
+          -80.39473,
+          25.68854
+        ],
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "created_at": [
+        "Sun Apr 29 19:16:43 +0000 2018",
+        "Sun Apr 29 19:17:47 +0000 2018",
+        "Sun Apr 29 19:18:52 +0000 2018",
+        "Sun Apr 29 19:19:54 +0000 2018",
+        "Sun Apr 29 19:20:58 +0000 2018",
+        "Sun Apr 29 19:20:57 +0000 2018",
+        "Sun Apr 29 19:23:04 +0000 2018",
+        "Sun Apr 29 19:23:03 +0000 2018",
+        "Sun Apr 29 19:27:16 +0000 2018",
+        "Sun Apr 29 19:27:16 +0000 2018",
+        "Sun Apr 29 19:30:26 +0000 2018",
+        "Sun Apr 29 19:30:25 +0000 2018"
+      ],
+      "followers_count": [
+        2827,
+        609,
+        1433,
+        370,
+        4817,
+        4817,
+        927,
+        454,
+        1993,
+        1025,
+        1025,
+        3045
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/974491787602653184/AU71EbUH_normal.jpg",
+        "http://pbs.twimg.com/profile_images/890371796842795010/Mt71hS6Q_normal.jpg",
+        "http://pbs.twimg.com/profile_images/901149679337058305/OrhK3Hpn_normal.jpg",
+        "http://pbs.twimg.com/profile_images/945523937139740672/QzR0o2xz_normal.jpg",
+        "http://pbs.twimg.com/profile_images/905568733539729408/WseLwMsw_normal.jpg",
+        "http://pbs.twimg.com/profile_images/905568733539729408/WseLwMsw_normal.jpg",
+        "http://pbs.twimg.com/profile_images/926853844612583424/nJ4MD9FK_normal.jpg",
+        "http://pbs.twimg.com/profile_images/819651765775822849/Us-xDulp_normal.jpg",
+        "http://pbs.twimg.com/profile_images/985986062299353091/XyLJf1US_normal.jpg",
+        "http://pbs.twimg.com/profile_images/971320048643080192/x06JA35P_normal.jpg",
+        "http://pbs.twimg.com/profile_images/971320048643080192/x06JA35P_normal.jpg",
+        "http://pbs.twimg.com/profile_images/972518138351898624/yEp9-uDP_normal.jpg"
+      ],
+      "text": [
+        "I\u2019m so heated right now",
+        "2018 group picture from #lowridermiami #miami #kendall #carshow #lowriding\u2026 https://t.co/2V7fGdwbJk",
+        "Burro. https://t.co/EogJQEmEqa",
+        "No matter what happens at the end of this game @VicOladipo has come out and balled this series #NBAPlayoffs",
+        "\u270c\ud83c\udffb\u2764\ufe0fAs\u00ed de simple\u2757\ufe0f https://t.co/IPcyxcPJh1",
+        "Solo hay que tener lo m\u00e1s Preciado que es La Paz \u270c\ud83c\udffb la cual nos lleva a todo lo bello de la vida. Sin paz la vida e\u2026 https://t.co/zm5jXOnSRq",
+        "when I\u2019m not clearing a bacon tomato thin crust pizza or downing blonde ales, I\u2019m usually taking\u2026 https://t.co/S6DnzMX9IQ",
+        "Victor is taking 8 seconds to shoot a free throw. That\u2019s against the rules.",
+        "Waiting on my pizza! \ud83d\ude44",
+        "I need the benefits bitch are you beneficial or not",
+        "You can teach anyone the game but you can\u2019t force em to win",
+        "Woww"
+      ],
+      "user": [
+        "LenyMKTO",
+        "TheDreamBoy305",
+        "tavo928",
+        "KingTorres1st",
+        "mariaeangarita",
+        "mariaeangarita",
+        "PixieKendall",
+        "Christunechi6",
+        "Keshj__",
+        "SHONEazzKP",
+        "SHONEazzKP",
+        "_prettygirll18"
+      ]
+    },
+    "gps": [
+      -80.19179,
+      25.76168
+    ]
+  },
+  "New York": {
+    "data": {
+      "bounding_box": [
+        [
+          -74.320603,
+          40.999388
+        ],
+        [
+          -74.096096,
+          40.635685
+        ],
+        [
+          -73.55113,
+          40.407181
+        ],
+        [
+          -74.109792,
+          40.870179
+        ],
+        [
+          -73.726904,
+          40.488984
+        ],
+        [
+          -73.875775,
+          40.765716
+        ],
+        [
+          -73.748093,
+          40.697194
+        ],
+        [
+          -74.146428,
+          40.417979
+        ],
+        [
+          -73.9369,
+          40.629962
+        ]
+      ],
+      "comp_sent": [
+        0.0772,
+        0.0,
+        0.0,
+        0.0,
+        -0.4019,
+        -0.25,
+        0.0,
+        0.3612,
+        0.3182
+      ],
+      "coords": [
+        null,
+        null,
+        null,
+        [
+          -73.9675,
+          40.7779
+        ],
+        null,
+        null,
+        null,
+        [
+          -73.9579894,
+          40.76937062
+        ],
+        null
+      ],
+      "created_at": [
+        "Sun Apr 29 04:43:59 +0000 2018",
+        "Sun Apr 29 19:16:52 +0000 2018",
+        "Sun Apr 29 19:22:07 +0000 2018",
+        "Sun Apr 29 19:22:07 +0000 2018",
+        "Sun Apr 29 19:22:07 +0000 2018",
+        "Sun Apr 29 19:24:14 +0000 2018",
+        "Sun Apr 29 19:25:16 +0000 2018",
+        "Sun Apr 29 19:27:23 +0000 2018",
+        "Sun Apr 29 19:28:26 +0000 2018"
+      ],
+      "followers_count": [
+        968347,
+        1808,
+        999,
+        1216,
+        4104,
+        271,
+        4,
+        5457,
+        2417
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/982704742135685120/vQDG8pMA_normal.jpg",
+        "http://pbs.twimg.com/profile_images/952201623304097792/mtwul7zq_normal.jpg",
+        "http://pbs.twimg.com/profile_images/911444629052170240/P4YtbG5j_normal.jpg",
+        "http://pbs.twimg.com/profile_images/983367020598116352/nXyP1lr9_normal.jpg",
+        "http://pbs.twimg.com/profile_images/988594656266129408/zpza-Q29_normal.jpg",
+        "http://pbs.twimg.com/profile_images/967105349793837056/5gCb8TNt_normal.jpg",
+        "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "http://pbs.twimg.com/profile_images/829915042648834049/v0pq4V_E_normal.jpg",
+        "http://pbs.twimg.com/profile_images/988882075234205698/bcfwbEZ0_normal.jpg"
+      ],
+      "text": [
+        "michelle wolf reminds us that denigrators of women, are often women who use politics as an excuse for physical ridi\u2026 https://t.co/qwW8f6Cp6r",
+        "MegaJail by @MightyFistGames to close out our playtesting day! https://t.co/0gwe5wv10P",
+        "I have a headache https://t.co/BXOCeYhLtT",
+        "Just posted a photo @ Manhattan, New York https://t.co/hksKpw3xR4",
+        "This is insane https://t.co/2K9yjrZ9A7",
+        "I made my girl late to work today and I thought she was going to kill me. She still loves me tho.",
+        "Leroy Binns https://t.co/dvRdOb57wf",
+        "Back like we never left. @ Freeman's Alley https://t.co/eBLQdRK1CB",
+        "Calm down, Tamera. https://t.co/6vov1XQmg0"
+      ],
+      "user": [
+        "greggutfeld",
+        "dnlnwmn",
+        "blingzzx0",
+        "frankiecocktail",
+        "ChaviStHill",
+        "Chubnacio",
+        "obadele721",
+        "AlexGale",
+        "turnandstomp"
+      ]
+    },
+    "gps": [
+      -74.005973,
+      40.712775
+    ]
+  },
+  "Seattle": {
+    "data": {
+      "bounding_box": [
+        [
+          -122.21355,
+          47.615016
+        ],
+        [
+          -122.121683,
+          47.685955
+        ],
+        [
+          -122.795254,
+          47.736375
+        ],
+        [
+          -122.319726,
+          47.598715
+        ],
+        [
+          -122.012181,
+          47.487425
+        ],
+        [
+          -121.989506,
+          47.443963
+        ],
+        [
+          -122.340633,
+          47.452511
+        ]
+      ],
+      "comp_sent": [
+        0.128,
+        0.0,
+        -0.2732,
+        0.0,
+        0.0,
+        0.3182,
+        0.4215
+      ],
+      "coords": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "created_at": [
+        "Sun Apr 29 19:18:05 +0000 2018",
+        "Sun Apr 29 19:22:17 +0000 2018",
+        "Sun Apr 29 19:22:16 +0000 2018",
+        "Sun Apr 29 19:23:23 +0000 2018",
+        "Sun Apr 29 19:23:20 +0000 2018",
+        "Sun Apr 29 19:25:27 +0000 2018",
+        "Sun Apr 29 19:30:45 +0000 2018"
+      ],
+      "followers_count": [
+        379,
+        121,
+        1734,
+        48,
+        968,
+        262,
+        80
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/913052679001210881/tBx3qVpe_normal.jpg",
+        "http://pbs.twimg.com/profile_images/959327678498131968/rG1CYvqV_normal.jpg",
+        "http://pbs.twimg.com/profile_images/988831105959608320/_MhfLZl8_normal.jpg",
+        "http://pbs.twimg.com/profile_images/988631562307551233/CtsI7K8g_normal.jpg",
+        "http://pbs.twimg.com/profile_images/989207361372930048/4MqPsX8g_normal.jpg",
+        "http://pbs.twimg.com/profile_images/892229598036938752/r7ymGR1P_normal.jpg",
+        "http://pbs.twimg.com/profile_images/988547740220121090/rLX0WanM_normal.jpg"
+      ],
+      "text": [
+        "I even have the shirt that matches my beans, because yes, I am a self professed mega coffee nerd. https://t.co/Puwsjo2Ead",
+        "@Grattsby Dammit @Stunning_Ivy",
+        "I always give the gas nozzle a rough jiggle to get the last drop out.\n\nSo, I get it guys... I get it.",
+        "@Gosbo68 @tonyridnell @SeawolvesRFC @usmlr @Saracens Check out @SeawolfPod ... podcast/community for #SeawolvesRugby fans",
+        "Messi!!!!",
+        "@susanslusser The short fence and seats right up on it is a recipe for fan inference.",
+        "Sonny has so many aunts from his moms side that his contact for all of them are .. \u201caunt 1, aunt 2.. etc.\u201d Lol \ud83d\ude02"
+      ],
+      "user": [
+        "amercer83",
+        "jakedubbski",
+        "kellyophotog",
+        "raymondtee_",
+        "Winturcios",
+        "Phil_L_Thompson",
+        "XXxyinx"
+      ]
+    },
+    "gps": [
+      -122.332071,
+      47.60621
+    ]
+  },
+  "St. Louis": {
+    "data": {
+      "bounding_box": [
+        [
+          -90.521773,
+          38.67386
+        ],
+        [
+          -90.639562,
+          38.742456
+        ],
+        [
+          -90.207977,
+          38.712777
+        ],
+        [
+          -90.650491,
+          38.764587
+        ],
+        [
+          -90.663411,
+          38.466031
+        ],
+        [
+          -90.00256,
+          38.797581
+        ],
+        [
+          -90.294006,
+          38.752963
+        ],
+        [
+          -90.783372,
+          38.758714
+        ],
+        [
+          -90.229888,
+          38.599687
+        ],
+        [
+          -90.26993,
+          39.025246
+        ],
+        [
+          -90.741687,
+          38.492344
+        ]
+      ],
+      "comp_sent": [
+        0.5538,
+        0.6209,
+        -0.1027,
+        0.0,
+        0.5719,
+        0.0,
+        0.0,
+        0.6468,
+        0.0,
+        0.6705,
+        -0.5574
+      ],
+      "coords": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "created_at": [
+        "Sat Apr 28 14:18:56 +0000 2018",
+        "Sun Apr 29 19:16:12 +0000 2018",
+        "Sun Apr 29 19:17:22 +0000 2018",
+        "Sun Apr 29 19:17:21 +0000 2018",
+        "Sun Apr 29 19:19:28 +0000 2018",
+        "Sun Apr 29 19:23:36 +0000 2018",
+        "Sun Apr 29 19:25:48 +0000 2018",
+        "Sun Apr 29 19:27:55 +0000 2018",
+        "Sun Apr 29 19:27:52 +0000 2018",
+        "Sun Apr 29 19:28:52 +0000 2018",
+        "Sun Apr 29 19:29:57 +0000 2018"
+      ],
+      "followers_count": [
+        900910,
+        20720,
+        498,
+        1126,
+        458,
+        21,
+        7568,
+        1532,
+        1889,
+        104,
+        458
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/989945852029480960/-_2ITD_d_normal.jpg",
+        "http://pbs.twimg.com/profile_images/989417206667665408/WXiXgM4z_normal.jpg",
+        "http://pbs.twimg.com/profile_images/458695925506916352/-lduHX3Y_normal.jpeg",
+        "http://pbs.twimg.com/profile_images/980624114519085056/Ge3CcAjQ_normal.jpg",
+        "http://pbs.twimg.com/profile_images/841859885365137408/Qha0RJRG_normal.jpg",
+        "http://pbs.twimg.com/profile_images/957350012626796545/UpwLraGP_normal.jpg",
+        "http://pbs.twimg.com/profile_images/882597723412758529/JX253cst_normal.jpg",
+        "http://pbs.twimg.com/profile_images/821475422600720384/VoQxKJUm_normal.jpg",
+        "http://pbs.twimg.com/profile_images/986434365046521857/MiJORewC_normal.jpg",
+        "http://pbs.twimg.com/profile_images/694234953291141122/ymtAaxT4_normal.jpg",
+        "http://pbs.twimg.com/profile_images/841859885365137408/Qha0RJRG_normal.jpg"
+      ],
+      "text": [
+        "Yes!!! https://t.co/gSZhZJBtcm",
+        "Better not see anyone wearing an Adidas hat. Appropriating German culture smh!!!! \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "Hard hit back to the pitcher by Rucker for out 3. Tied at 8 in the bottom of 8",
+        "When people hit me up not wanting anything just to check on me&gt;&gt;&gt;&gt;",
+        "Pacers getting eliminated and Cardinals getting Perfect Gamed.\n\n#thisisfine",
+        "@El_Come_Crica @TheOsorioDC_21J",
+        "@JacobLongTV @Cardinals \ud83d\ude12",
+        "Couldn\u2019t ask for a more perfect day for the @CYCsportsSTL Lacrosse Tournament hosted by @VianneyLacrosse!\u2026 https://t.co/2JaZxW3OuY",
+        "look at his captions \u2620\ufe0f\u2620\ufe0f https://t.co/m4UxFLKX1f",
+        "This whole series pretty much decided by the difference between the pirate hitters ability to put a bat on the ball\u2026 https://t.co/yrZCf1kMoA",
+        "That\u2019s a horse shit call."
+      ],
+      "user": [
+        "Lesdoggg",
+        "clerkie",
+        "SUSoftball",
+        "100Eli_",
+        "KBaum1234",
+        "Fran_el_Chiro",
+        "alexiszotos",
+        "_ultimatelax",
+        "haleyijuah",
+        "BarryWaller61",
+        "KBaum1234"
+      ]
+    },
+    "gps": [
+      -90.199404,
+      38.627003
+    ]
+  }
+}
