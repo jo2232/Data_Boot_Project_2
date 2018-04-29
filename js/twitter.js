@@ -168,9 +168,10 @@ function optionChanged(value) {
 }
 
 function gauge(sent) {
+    sent = sent * 100;
     dflt = {
-        min: -1,
-        max: 1,
+        min: -100,
+        max: 100,
         donut: false,
         gaugeWidthScale: 0.6,
         counter: true,
