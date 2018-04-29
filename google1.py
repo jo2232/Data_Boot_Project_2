@@ -3,6 +3,7 @@ from splinter import Browser
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from sys import platform
+import json
 
 
 # In[2]:
@@ -49,6 +50,11 @@ def scrape_it():
     
     cnn_data = dict(zip(article_headlines, links))
 
+    def saveOutput(data):
+        with open('cnn.txt', 'w') as outfile:
+            json.dump(data, outfile, sort_keys = True, indent = 2)
+       
+    saveOutput(cnn_data)
     
     
     return cnn_data

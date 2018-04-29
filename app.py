@@ -25,13 +25,19 @@ def index():
 
 @app.route('/twitterize')
 def twitterize():
-    data = tweepy1.twitterize()
-    jsonify(data)
+    tweepy1.twitterize()
+    google1.scrape_it()
     return redirect("http://127.0.0.1:5000/", code=302)
 
 @app.route('/getLastData')
 def getData():
     with open('data.txt') as json_file:  
+        data = json.load(json_file)
+    return jsonify(data)
+
+@app.route('/loadCNN')
+def getCnn():
+    with open('cnn.txt') as json_file:  
         data = json.load(json_file)
     return jsonify(data)
    

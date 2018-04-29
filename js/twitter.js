@@ -27,7 +27,7 @@ var twitterIcon = L.icon({
     iconUrl: 'https://www.geraldgiles.co.uk/wp-content/uploads/2017/07/twitter-logo-transparent.png',
     // shadowUrl: 'leaf-shadow.png',
 
-    iconSize:     [30,30], // size of the icon
+    iconSize: [30, 30], // size of the icon
     // shadowSize:   [50, 64], // size of the shadow
     // iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
     // shadowAnchor: [4, 62],  // the same for the shadow
@@ -43,6 +43,9 @@ function createMarkers(response) {
     // read in .json
     d3.json("/getLastData", facts)
 
+
+
+
     //begin parsing through data and separating into dictionaries
     function facts(response) {
 
@@ -57,7 +60,7 @@ function createMarkers(response) {
                 lon = response[key]['data'].bounding_box[i][0];
 
                 // create marker
-                marker = L.marker([lat, lon], {icon: twitterIcon})
+                marker = L.marker([lat, lon], { icon: twitterIcon })
                     .bindPopup("<img src=" + response[key]['data'].profile_image_url[i] + ">" + "<br>"
                     + "<h3>" + response[key]['data'].user[i] + "</h3>"
                     + "<p>" + response[key]['data'].text[i] + "</p>")
@@ -178,18 +181,53 @@ function gauge(sent) {
         hideInnerShadow: true
     }
     if (Object.keys(gg1).length === 0) {
-    gg1 = new JustGage({
-        title: 'Average Tweet Sentiment',
-        id: 'gg1',
-        value: sent,
-        defaults: dflt,
-        decimals: true
-    }); 
-} else {
-    gg1.refresh(sent)
+        gg1 = new JustGage({
+            title: 'Average Tweet Sentiment',
+            id: 'gg1',
+            value: sent,
+            defaults: dflt,
+            decimals: true
+        });
+    } else {
+        gg1.refresh(sent)
+    }
 }
+
+
+d3.json("/getLastData", makeScatter)
+
+function makeScatter(test) {
+    followers = []
+    sentiments = []
+        //loop through each city
+        for (key in test) {
+            // loop through each tweet in each city
+            for (var i = 0; i < test[key]['data'].bounding_box.length; i++) {
+                followers.push(test[key]['data'].followers_count[i])
+                sentiments.push(test[key]['data'].comp_sent[i])
+            }
+        }
+
+        var data = {
+            followers: followers,
+            sentiments: sentiments }
+
+        var trace3 = {
+            x: data.followers,
+            y: data.sentiments,
+            mode: 'markers'
+          };
+
+          var data = [trace3];
+          var layout = {};
+          Plotly.newPlot('scatter', data, layout);
+    }
+
+d3.json("/loadCNN", loadCNN)
+
+function loadCNN(data) {
+    console.log(data)
 }
-  
 
 
 

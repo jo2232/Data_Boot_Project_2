@@ -1,0 +1,370 @@
+{
+  "Atlanta": {
+    "data": {
+      "bounding_box": [
+        [
+          -84.204725,
+          33.757627
+        ]
+      ],
+      "comp_sent": [
+        0.296
+      ],
+      "coords": [
+        null
+      ],
+      "created_at": [
+        "Sun Apr 29 20:20:23 +0000 2018"
+      ],
+      "followers_count": [
+        1188
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/986013397345959936/axFROOCK_normal.jpg"
+      ],
+      "text": [
+        "Ok lemme get out the bed."
+      ],
+      "user": [
+        "Chad_speaks"
+      ]
+    },
+    "gps": [
+      -84.387982,
+      33.748995
+    ]
+  },
+  "Chicago": {
+    "data": {
+      "bounding_box": [],
+      "comp_sent": [],
+      "coords": [],
+      "created_at": [],
+      "followers_count": [],
+      "profile_image_url": [],
+      "text": [],
+      "user": []
+    },
+    "gps": [
+      -87.629798,
+      41.878114
+    ]
+  },
+  "Dallas": {
+    "data": {
+      "bounding_box": [
+        [
+          -97.314884,
+          32.419229
+        ]
+      ],
+      "comp_sent": [
+        0.4995
+      ],
+      "coords": [
+        [
+          -97.12156,
+          32.7663
+        ]
+      ],
+      "created_at": [
+        "Sun Apr 29 20:20:04 +0000 2018"
+      ],
+      "followers_count": [
+        376
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/981332719991951362/L_kJU4BC_normal.jpg"
+      ],
+      "text": [
+        "2916 Prairie View Drive, Northlake, TX 76226 | $825,900 | 4962 Sq.ft |\u2026 (at Classic Property Management AAMC\u00ae\u200b) \u2014 https://t.co/RxQn9rMncU"
+      ],
+      "user": [
+        "ClassicAAMC"
+      ]
+    },
+    "gps": [
+      -96.796988,
+      32.776664
+    ]
+  },
+  "Kansas City": {
+    "data": {
+      "bounding_box": [
+        [
+          -94.747786,
+          39.072236
+        ]
+      ],
+      "comp_sent": [
+        0.4939
+      ],
+      "coords": [
+        [
+          -94.6561,
+          39.0256
+        ]
+      ],
+      "created_at": [
+        "Sun Apr 29 20:20:38 +0000 2018"
+      ],
+      "followers_count": [
+        177
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/900819990106058752/Q7hTTUkE_normal.jpg"
+      ],
+      "text": [
+        "...and water. And sunshine. #moodchangers #sunshine #sandandsun\u2600\ufe0f\u2026 https://t.co/1n6uNhfY8F"
+      ],
+      "user": [
+        "LindaKlein127"
+      ]
+    },
+    "gps": [
+      -94.578567,
+      39.099727
+    ]
+  },
+  "Las Vegas": {
+    "data": {
+      "bounding_box": [
+        [
+          -114.910359,
+          35.969898
+        ]
+      ],
+      "comp_sent": [
+        -0.5994
+      ],
+      "coords": [
+        null
+      ],
+      "created_at": [
+        "Sun Apr 29 20:21:00 +0000 2018"
+      ],
+      "followers_count": [
+        2375
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/989961071795421185/Yc-NOiDc_normal.jpg"
+      ],
+      "text": [
+        "my bitches the real deal"
+      ],
+      "user": [
+        "riskitforbrit"
+      ]
+    },
+    "gps": [
+      -115.13983,
+      36.169941
+    ]
+  },
+  "Los Angeles": {
+    "data": {
+      "bounding_box": [],
+      "comp_sent": [],
+      "coords": [],
+      "created_at": [],
+      "followers_count": [],
+      "profile_image_url": [],
+      "text": [],
+      "user": []
+    },
+    "gps": [
+      -118.243685,
+      34.052234
+    ]
+  },
+  "Miami": {
+    "data": {
+      "bounding_box": [],
+      "comp_sent": [],
+      "coords": [],
+      "created_at": [],
+      "followers_count": [],
+      "profile_image_url": [],
+      "text": [],
+      "user": []
+    },
+    "gps": [
+      -80.19179,
+      25.76168
+    ]
+  },
+  "New York": {
+    "data": {
+      "bounding_box": [
+        [
+          -74.178139,
+          40.54203
+        ],
+        [
+          -73.879837,
+          40.723154
+        ]
+      ],
+      "comp_sent": [
+        0.0772,
+        0.0
+      ],
+      "coords": [
+        null,
+        null
+      ],
+      "created_at": [
+        "Sun Apr 29 04:43:59 +0000 2018",
+        "Sun Apr 29 20:20:42 +0000 2018"
+      ],
+      "followers_count": [
+        968484,
+        259
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/982704742135685120/vQDG8pMA_normal.jpg",
+        "http://pbs.twimg.com/profile_images/989254100004016129/YfuOAuaK_normal.jpg"
+      ],
+      "text": [
+        "michelle wolf reminds us that denigrators of women, are often women who use politics as an excuse for physical ridi\u2026 https://t.co/qwW8f6Cp6r",
+        "You were a phase. It\u2019s over with."
+      ],
+      "user": [
+        "greggutfeld",
+        "evolsylv"
+      ]
+    },
+    "gps": [
+      -74.005973,
+      40.712775
+    ]
+  },
+  "Seattle": {
+    "data": {
+      "bounding_box": [
+        [
+          -122.041928,
+          47.671658
+        ],
+        [
+          -122.288593,
+          47.370652
+        ]
+      ],
+      "comp_sent": [
+        0.0,
+        0.8658
+      ],
+      "coords": [
+        null,
+        null
+      ],
+      "created_at": [
+        "Sun Apr 29 20:20:55 +0000 2018",
+        "Sun Apr 29 20:20:53 +0000 2018"
+      ],
+      "followers_count": [
+        228,
+        1238
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/868262387119382528/uxAhsujT_normal.jpg",
+        "http://pbs.twimg.com/profile_images/955229603336826880/ePKMUSMY_normal.jpg"
+      ],
+      "text": [
+        "This can't be real https://t.co/maOYX3dp7T",
+        "I\u2019m pretty sure kids would love this especially me and my sister. https://t.co/sncmZCZ6O2"
+      ],
+      "user": [
+        "hates_sleeves",
+        "zeke_zgembala"
+      ]
+    },
+    "gps": [
+      -122.332071,
+      47.60621
+    ]
+  },
+  "St. Louis": {
+    "data": {
+      "bounding_box": [
+        [
+          -89.795239,
+          39.136121
+        ],
+        [
+          -90.642277,
+          38.488309
+        ],
+        [
+          -90.433659,
+          38.845676
+        ],
+        [
+          -89.938013,
+          38.814236
+        ],
+        [
+          -90.084135,
+          38.731909
+        ]
+      ],
+      "comp_sent": [
+        0.5538,
+        0.4404,
+        -0.5423,
+        -0.0258,
+        0.6369
+      ],
+      "coords": [
+        null,
+        [
+          -90.3293011,
+          38.5616819
+        ],
+        null,
+        null,
+        null
+      ],
+      "created_at": [
+        "Sat Apr 28 14:18:56 +0000 2018",
+        "Sun Apr 29 20:20:10 +0000 2018",
+        "Sun Apr 29 20:20:09 +0000 2018",
+        "Sun Apr 29 20:20:02 +0000 2018",
+        "Sun Apr 29 20:20:01 +0000 2018"
+      ],
+      "followers_count": [
+        901005,
+        3857,
+        304,
+        197,
+        466
+      ],
+      "profile_image_url": [
+        "http://pbs.twimg.com/profile_images/989945852029480960/-_2ITD_d_normal.jpg",
+        "http://pbs.twimg.com/profile_images/878708347821850625/O8TB_MBZ_normal.jpg",
+        "http://pbs.twimg.com/profile_images/939368043133722624/5WOya8cU_normal.jpg",
+        "http://pbs.twimg.com/profile_images/967260504451362816/xndOdc8o_normal.jpg",
+        "http://pbs.twimg.com/profile_images/378800000716916722/5681aa359d67aa68a74b659023e23671_normal.jpeg"
+      ],
+      "text": [
+        "Yes!!! https://t.co/gSZhZJBtcm",
+        "2nd Grade Boys - Championship (G6) - Chicago Demons (2) def. W5 23-5 #ThreatHoops @exposurebball",
+        "@EvanAsher9 Barely getting past the pacers? Let\u2019s do how bad they do next round",
+        "Ok I\u2019m confused https://t.co/J5krWGizuf",
+        "@ChrisBenzola @Buster_ESPN Yes. And you act like he\u2019s a .230 career hitter or something."
+      ],
+      "user": [
+        "Lesdoggg",
+        "ThreatHoops",
+        "ManzoToboggan",
+        "eccentricdivva",
+        "rturner17"
+      ]
+    },
+    "gps": [
+      -90.199404,
+      38.627003
+    ]
+  }
+}

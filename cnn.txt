@@ -1,0 +1,11 @@
+{
+  "Amazon now delivers to the trunk of your car": "http://money.cnn.com/2018/04/24/technology/amazon-key-in-car-delivery-review/index.html",
+  "American Airlines sued after bride returning from honeymoon has medical emergency on flight and later dies": "//www.cnn.com/2018/04/27/us/american-airlines-wrongful-death-suit/index.html",
+  "Dallas police officer dies after shooting": "//www.cnn.com/2018/04/25/us/dallas-police-shooting/index.html",
+  "Exclusive: NRA gathers documents amid scrutiny over ties to Kremlin-linked banker": "//www.cnn.com/2018/04/27/politics/nra-documents-russian-banker/index.html",
+  "How the NFL draft went from a hotel ballroom to an all out spectacle": "http://money.cnn.com/2018/04/26/media/nfl-draft-event-production-business/index.html",
+  "Man arrested after 2 Dallas police officers wounded in shooting": "//www.cnn.com/2018/04/24/us/dallas-cops-shot/index.html",
+  "Passenger files lawsuit against Southwest Airlines over fatal engine failure": "//www.cnn.com/2018/04/28/us/southwest-airlines-lawsuit/index.html",
+  "Some Southwest flights canceled due to engine inspections": "//www.cnn.com/2018/04/23/us/southwest-flight-disruption/index.html",
+  "The story behind that viral photo of the past 4 presidents all in the same place": "//www.cnn.com/2018/04/23/politics/presidents-picture-barbara-bush-funeral-photographer/index.html"
+}
