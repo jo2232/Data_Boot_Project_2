@@ -21,6 +21,28 @@ let mapboxUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_tok
 let accessToken = 'pk.eyJ1IjoicmluY2tkIiwiYSI6ImNpamc3ODR1aDAxMmx0c2x0Zm9lc3E1OTAifQ.pIkP7PdJMrR5TBIp93Dlbg';
 var dflt = {};
 var gg1 = {};
+let myD3 = d3.select('#news');
+let current_city = null;
+let parameters = {
+    columns: [
+        {
+            title: 'City',
+            html: function (row) { return row.city; }
+        },
+        {
+            title: 'Headline',
+            html: function (row) { return row.headline }
+        },
+        {
+            title: 'Link',
+            html: function (row) { return row.links.substring(2)  } 
+        }
+    ],
+    data: null,
+    filtered_data: null,
+    blank: null
+};
+
 
 
 var twitterIcon = L.icon({
@@ -164,10 +186,13 @@ function createMap(markers, map_coords, zoom, feels) {
 
 //change map coords
 function optionChanged(value) {
+    current_city = value;
     if (map) {
         map.remove()
     }
     d3.json("https://gbfs.citibikenyc.com/gbfs/en/station_information.json", createMarkers);
+    
+    d3.json("/loadCNN", loadCNN)
 }
 
 function gauge(sent) {
@@ -194,40 +219,62 @@ function gauge(sent) {
 }
 
 
-d3.json("/getLastData", makeScatter)
 
-function makeScatter(test) {
-    followers = []
-    sentiments = []
-        //loop through each city
-        for (key in test) {
-            // loop through each tweet in each city
-            for (var i = 0; i < test[key]['data'].bounding_box.length; i++) {
-                followers.push(test[key]['data'].followers_count[i])
-                sentiments.push(test[key]['data'].comp_sent[i])
-            }
-        }
 
-        var data = {
-            followers: followers,
-            sentiments: sentiments }
 
-        var trace3 = {
-            x: data.followers,
-            y: data.sentiments,
-            mode: 'markers'
-          };
-
-          var data = [trace3];
-          var layout = {};
-          Plotly.newPlot('scatter', data, layout);
-    }
-
-d3.json("/loadCNN", loadCNN)
 
 function loadCNN(data) {
-    console.log(data)
+    parameters.data = data;
+    parameters.filtered_data = [];
+    for (let row of parameters.data) {
+        if (row.city === current_city) {
+            parameters.filtered_data.push(row);
+        }
+    }
+    createTables();
 }
+
+function createTables() {
+    myD3.html('');
+    let table = d3.select('#news').append('table').attr('class', 'table');
+
+    table.append('thead').append('tr')
+      .selectAll('th')
+      .data(parameters['columns'])
+      .enter()
+      .append('th')
+      .text(function (data) { return data.title; }
+      
+    );
+  
+    table.append('tbody')
+      .selectAll('tr') // create row for each row of data
+      .data(parameters.filtered_data)
+      .enter()
+      .append('tr')
+      .selectAll('td')
+      .data(function (row) {
+        // evaluate column objects against the current row
+        return parameters.columns.map(function (column) {
+            
+          var cell = {};
+          d3.keys(column).forEach(function (k) {
+              
+
+            if (typeof (column[k]) === 'function') {
+              cell[k] = column[k](row)
+            }
+          });
+          return cell
+        });
+        
+      }).enter()
+      .append('td')
+      .text(function (data) { return data.html})
+      
+  }
+
+
 
 
 

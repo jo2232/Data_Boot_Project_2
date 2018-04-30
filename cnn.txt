@@ -1,11 +1,392 @@
-{
-  "Amazon now delivers to the trunk of your car": "http://money.cnn.com/2018/04/24/technology/amazon-key-in-car-delivery-review/index.html",
-  "American Airlines sued after bride returning from honeymoon has medical emergency on flight and later dies": "//www.cnn.com/2018/04/27/us/american-airlines-wrongful-death-suit/index.html",
-  "Dallas police officer dies after shooting": "//www.cnn.com/2018/04/25/us/dallas-police-shooting/index.html",
-  "Exclusive: NRA gathers documents amid scrutiny over ties to Kremlin-linked banker": "//www.cnn.com/2018/04/27/politics/nra-documents-russian-banker/index.html",
-  "How the NFL draft went from a hotel ballroom to an all out spectacle": "http://money.cnn.com/2018/04/26/media/nfl-draft-event-production-business/index.html",
-  "Man arrested after 2 Dallas police officers wounded in shooting": "//www.cnn.com/2018/04/24/us/dallas-cops-shot/index.html",
-  "Passenger files lawsuit against Southwest Airlines over fatal engine failure": "//www.cnn.com/2018/04/28/us/southwest-airlines-lawsuit/index.html",
-  "Some Southwest flights canceled due to engine inspections": "//www.cnn.com/2018/04/23/us/southwest-flight-disruption/index.html",
-  "The story behind that viral photo of the past 4 presidents all in the same place": "//www.cnn.com/2018/04/23/politics/presidents-picture-barbara-bush-funeral-photographer/index.html"
-}
+[
+  {
+    "city": "Atlanta",
+    "headline": "Video shows former football player involved in violent arrest",
+    "links": "//www.cnn.com/2018/04/28/us/georgia-arrest-former-football-player/index.html"
+  },
+  {
+    "city": "Atlanta",
+    "headline": "A small city in Georgia is fighting back against neo-Nazis in a novel way",
+    "links": "//www.cnn.com/2018/04/20/us/newnan-neo-nazis-rally-trnd/index.html"
+  },
+  {
+    "city": "Atlanta",
+    "headline": "The Fight for $15 takes on the 'Jim Crow economy'",
+    "links": "//www.cnn.com/2018/04/13/us/fight-for-15-birmingham/index.html"
+  },
+  {
+    "city": "Atlanta",
+    "headline": "Floyd Mayweather's bodyguard shot outside ritzy Atlanta hotel, police say",
+    "links": "//www.cnn.com/2018/04/09/us/floyd-mayweather-bodyguard-shot-atlanta/index.html"
+  },
+  {
+    "city": "Atlanta",
+    "headline": "FBI offers $10,000 for info on fugitive charged in 1996 ValuJet crash",
+    "links": "//www.cnn.com/2018/04/06/us/valujet-fugitive-reward/index.html"
+  },
+  {
+    "city": "Atlanta",
+    "headline": "5 things for April 6: Trump, South Korea, opioids, race and police, CDC scientist",
+    "links": "//www.cnn.com/2018/04/06/us/five-things-april-6-trnd/index.html"
+  },
+  {
+    "city": "Atlanta",
+    "headline": "Former Georgia city official drops N-word while pushing for Confederate History Month",
+    "links": "//www.cnn.com/2018/04/06/us/griffin-georgia-confederate-racial-slur-trnd/index.html"
+  },
+  {
+    "city": "Atlanta",
+    "headline": "Students have been occupying Howard's administration building for 7 days now",
+    "links": "//www.cnn.com/2018/04/04/us/howard-university-protest/index.html"
+  },
+  {
+    "city": "Dallas",
+    "headline": "Passenger files lawsuit against Southwest Airlines over fatal engine failure",
+    "links": "//www.cnn.com/2018/04/28/us/southwest-airlines-lawsuit/index.html"
+  },
+  {
+    "city": "Dallas",
+    "headline": "American Airlines sued after bride returning from honeymoon has medical emergency on flight and later dies",
+    "links": "//www.cnn.com/2018/04/27/us/american-airlines-wrongful-death-suit/index.html"
+  },
+  {
+    "city": "Dallas",
+    "headline": "Dallas police officer dies after shooting",
+    "links": "//www.cnn.com/2018/04/25/us/dallas-police-shooting/index.html"
+  },
+  {
+    "city": "Dallas",
+    "headline": "Man arrested after 2 Dallas police officers wounded in shooting",
+    "links": "//www.cnn.com/2018/04/24/us/dallas-cops-shot/index.html"
+  },
+  {
+    "city": "Dallas",
+    "headline": "Some Southwest flights canceled due to engine inspections",
+    "links": "//www.cnn.com/2018/04/23/us/southwest-flight-disruption/index.html"
+  },
+  {
+    "city": "Dallas",
+    "headline": "22 minutes of terror",
+    "links": "//www.cnn.com/2018/04/22/us/southwest-1380-emergency-landing-moments/index.html"
+  },
+  {
+    "city": "Dallas",
+    "headline": "FAA orders jet engine inspections after fatal Southwest incident",
+    "links": "//www.cnn.com/2018/04/20/us/faa-orders-jet-engine-inspections/index.html"
+  },
+  {
+    "city": "Dallas",
+    "headline": "Southwest gives $5,000 checks to passengers on Flight 1380",
+    "links": "//www.cnn.com/2018/04/20/us/southwest-flight-1380-passengers-check/index.html"
+  },
+  {
+    "city": "Dallas",
+    "headline": "Hidden crack in Southwest jet engine at center of NTSB investigation",
+    "links": "//www.cnn.com/2018/04/19/us/southwest-ntsb-investigation/index.html"
+  },
+  {
+    "city": "Las Vegas",
+    "headline": "Jury in Bill Cosby's trial fails to reach a verdict in first day of deliberation",
+    "links": "//www.cnn.com/2018/04/25/us/bill-cosby-trial-jury/index.html"
+  },
+  {
+    "city": "Las Vegas",
+    "headline": "5 takeaways from Janice Dickinson's testimony at Bill Cosby's trial",
+    "links": "//www.cnn.com/2018/04/12/us/janice-dickinson-bill-cosby-five-takeaways/index.html"
+  },
+  {
+    "city": "Las Vegas",
+    "headline": "Janice Dickinson remembers feeling 'anger, disgust and ashamed' in testimony on alleged rape by Bill Cosby",
+    "links": "//www.cnn.com/2018/04/12/us/bill-cosby-trial-janice-dickinson/index.html"
+  },
+  {
+    "city": "Las Vegas",
+    "headline": "'You remember, don't you, Mr. Cosby?' witness asks in court after describing alleged assault",
+    "links": "//www.cnn.com/2018/04/11/us/bill-cosby-trial/index.html"
+  },
+  {
+    "city": "Las Vegas",
+    "headline": "6 dead in small plane crash at Arizona golf course",
+    "links": "//www.cnn.com/2018/04/10/us/plane-crash-arizona-golf-course/index.html"
+  },
+  {
+    "city": "Las Vegas",
+    "headline": "What cities and states are doing about guns since the Parkland shooting",
+    "links": "//www.cnn.com/2018/04/09/us/gun-laws-since-parkland/index.html"
+  },
+  {
+    "city": "Las Vegas",
+    "headline": "An Illinois town just banned assault weapons. The penalty if you keep one? Up to $1,000 a day",
+    "links": "//www.cnn.com/2018/04/05/us/deerfield-illinois-assault-weapon-ban-trnd/index.html"
+  },
+  {
+    "city": "Las Vegas",
+    "headline": "Trauma surgeon in YouTube shooting vents his frustration over continuing gun violence",
+    "links": "//www.cnn.com/2018/04/03/us/trauma-surgeon-youtube-hq-shooting/index.html"
+  },
+  {
+    "city": "Las Vegas",
+    "headline": "Las Vegas hockey team retires No. 58 to honor concert victims",
+    "links": "//www.cnn.com/2018/04/01/us/vegas-golden-knights-tribute/index.html"
+  },
+  {
+    "city": "Las Vegas",
+    "headline": "Vermont lawmakers approve gun control measures",
+    "links": "//www.cnn.com/2018/03/31/us/vermont-lawmakers-gun-control/index.html"
+  },
+  {
+    "city": "Los Angeles",
+    "headline": "Arrest of alleged Golden State Killer brings 'wave of relief' to survivors and victims' families",
+    "links": "//www.cnn.com/2018/04/26/us/reaction-golden-state-killer-survivors-victims/index.html"
+  },
+  {
+    "city": "Los Angeles",
+    "headline": "Climate change could leave Californians with 'weather whiplash'",
+    "links": "//www.cnn.com/2018/04/23/us/climate-change-california-whiplash-wxc/index.html"
+  },
+  {
+    "city": "Los Angeles",
+    "headline": "Backpacker trapped in the torrential rains in Hawaii survived by hiking 20 miles in sandals",
+    "links": "//www.cnn.com/2018/04/19/us/backpackers-kalalau-trail-kauai-flooding-trnd/index.html"
+  },
+  {
+    "city": "Los Angeles",
+    "headline": "Accused MS-13 East Coast kingpin arraigned on drug trafficking and conspiracy charges",
+    "links": "//www.cnn.com/2018/04/19/us/accused-east-coast-ms-13-gang-leader-arraignment/index.html"
+  },
+  {
+    "city": "Los Angeles",
+    "headline": "Hawaii rescuers airlift residents after floods, landslides on Kauai",
+    "links": "//www.cnn.com/2018/04/17/weather/hawaii-kauai-flooding/index.html"
+  },
+  {
+    "city": "Los Angeles",
+    "headline": "Robert Durst to appear in court on a murder charge in his friend's death",
+    "links": "//www.cnn.com/2018/04/16/us/robert-durst-berman-court-hearing/index.html"
+  },
+  {
+    "city": "Los Angeles",
+    "headline": "Jennifer Hart had alcohol in her system at time of fatal crash",
+    "links": "//www.cnn.com/2018/04/13/us/hart-family-crash-alcohol/index.html"
+  },
+  {
+    "city": "Los Angeles",
+    "headline": "3 Californias? The initiative to break up the state may be on the ballot in November",
+    "links": "//www.cnn.com/2018/04/13/us/california-closer-to-split-into-three-states-trnd/index.html"
+  },
+  {
+    "city": "Kansas City",
+    "headline": "5 things for April 24: Toronto, George H.W. Bush, White House, Nashville, Armenia",
+    "links": "//www.cnn.com/2018/04/24/us/five-things-april-24-trnd/index.html"
+  },
+  {
+    "city": "Kansas City",
+    "headline": "3 men convicted in plot to attack Somali immigrants with weapon of mass destruction",
+    "links": "//www.cnn.com/2018/04/19/us/bomb-plot-kansas-conviction/index.html"
+  },
+  {
+    "city": "Kansas City",
+    "headline": "Severe weather hits South, North and Midwest",
+    "links": "//www.cnn.com/2018/04/15/us/weather-updates-death-and-outages/index.html"
+  },
+  {
+    "city": "Kansas City",
+    "headline": "Officer won't face charges in Kansas swatting death",
+    "links": "//www.cnn.com/2018/04/13/us/police-no-charges-swatting-death/index.html"
+  },
+  {
+    "city": "Kansas City",
+    "headline": "A Kansas bill could make schools liable for shootings if they don't arm teachers",
+    "links": "//www.cnn.com/2018/03/28/us/kansas-house-bill-arming-teachers-school-shooting-trnd/index.html"
+  },
+  {
+    "city": "Kansas City",
+    "headline": "5 things for March 28: North Korea & China, Sacramento, water park death, new organ",
+    "links": "//www.cnn.com/2018/03/28/us/five-things-march-28-trnd/index.html"
+  },
+  {
+    "city": "Kansas City",
+    "headline": "Kansas water park executives charged with murder in boy's death",
+    "links": "//www.cnn.com/2018/03/27/us/schlitterbahn-waterpark-death-arrests/index.html"
+  },
+  {
+    "city": "Kansas City",
+    "headline": "Delta misroutes puppy on cross-country trip",
+    "links": "//www.cnn.com/2018/03/19/us/delta-misroutes-puppy/index.html"
+  },
+  {
+    "city": "Miami",
+    "headline": "The fate of the sheriff from the Parkland shooting lands in the Florida governor's lap",
+    "links": "//www.cnn.com/2018/04/26/us/broward-county-sheriff-scott-israel-no-confidence-vote/index.html"
+  },
+  {
+    "city": "Miami",
+    "headline": "Construction workers rescued safely from collapsed scaffolding near Miami",
+    "links": "//www.cnn.com/2018/04/24/us/florida-scaffolding-collapse/index.html"
+  },
+  {
+    "city": "Miami",
+    "headline": "David Hogg says voices from diverse communities need to be a focus if the #NeverAgain movement is to succeed",
+    "links": "//www.cnn.com/2018/04/20/us/david-hogg-national-school-walkout-reaction-trnd/index.html"
+  },
+  {
+    "city": "Miami",
+    "headline": "Linda lost her son in Parkland. Kelsey lost her favorite teacher. But he still brought them together",
+    "links": "//www.cnn.com/2018/04/18/us/parkland-mom-student-friendship/index.html"
+  },
+  {
+    "city": "Miami",
+    "headline": "3 men were beaten after Miami Beach's gay pride parade. Was it a hate crime?",
+    "links": "//www.cnn.com/2018/04/11/us/miami-beach-gay-pride-attack/index.html"
+  },
+  {
+    "city": "Miami",
+    "headline": "FBI offers $10,000 for info on fugitive charged in 1996 ValuJet crash",
+    "links": "//www.cnn.com/2018/04/06/us/valujet-fugitive-reward/index.html"
+  },
+  {
+    "city": "Miami",
+    "headline": "JFK's 'secret' doomsday map revealed",
+    "links": "//www.cnn.com/2018/04/06/us/jfk-cuban-missile-crisis-map-auction/index.html"
+  },
+  {
+    "city": "Miami",
+    "headline": "South Florida cities sue state over right to regulate guns",
+    "links": "//www.cnn.com/2018/04/03/us/south-florida-cities-sue-state-over-gun-regulation/index.html"
+  },
+  {
+    "city": "New York",
+    "headline": "Passenger files lawsuit against Southwest Airlines over fatal engine failure",
+    "links": "//www.cnn.com/2018/04/28/us/southwest-airlines-lawsuit/index.html"
+  },
+  {
+    "city": "New York",
+    "headline": "A man claims he was unfairly kicked out of a New York bar for wearing a 'Make America Great Again' cap. A judge disagrees",
+    "links": "//www.cnn.com/2018/04/26/us/maga-hat-new-york-bar-lawsuit-trnd/index.html"
+  },
+  {
+    "city": "New York",
+    "headline": "Arizona teachers walk out of their poorly equipped classrooms",
+    "links": "//www.cnn.com/2018/04/26/us/arizona-teacher-walkout-weir/index.html"
+  },
+  {
+    "city": "New York",
+    "headline": "Waffle House shooting hero James Shaw Jr. raises $165,000 for victims",
+    "links": "//www.cnn.com/2018/04/26/us/waffle-house-james-shaw-gofundme/index.html"
+  },
+  {
+    "city": "New York",
+    "headline": "The Toronto suspect apparently posted about an 'incel rebellion.' Here's what that means",
+    "links": "//www.cnn.com/2018/04/25/us/incel-rebellion-alek-minassian-toronto-attack-trnd/index.html"
+  },
+  {
+    "city": "New York",
+    "headline": "Husband of the Wells Fargo exec killed in Southwest flight remembers their last words: 'I love you. Safe travels'",
+    "links": "//www.cnn.com/2018/04/25/us/southwest-airlines-victim-husband-trnd/index.html"
+  },
+  {
+    "city": "New York",
+    "headline": "Bob Dorough, whose catchy 'Schoolhouse Rock' tunes taught kids grammar and math, has died",
+    "links": "//www.cnn.com/2018/04/24/us/schoolhouse-rock-creator-died-trnd/index.html"
+  },
+  {
+    "city": "New York",
+    "headline": "The Toronto van suspect apparently lauded an American mass killer",
+    "links": "//www.cnn.com/2018/04/24/us/toronto-suspect-what-we-know/index.html"
+  },
+  {
+    "city": "Seattle",
+    "headline": "5 things for March 27: Russia diplomats, Facebook, Kim Jong Un, Census, Linda Brown",
+    "links": "//www.cnn.com/2018/03/27/us/five-things-march-27-trnd/index.html"
+  },
+  {
+    "city": "Seattle",
+    "headline": "These grandmothers in Texas have had enough of gun violence",
+    "links": "//www.cnn.com/2018/03/24/us/grandmothers-against-violence-texas-trnd/index.html"
+  },
+  {
+    "city": "Seattle",
+    "headline": "NFL star Michael Bennett indicted on charge of injury to elderly at Super Bowl",
+    "links": "//www.cnn.com/2018/03/23/us/nfl-star-michael-bennett-indicted/index.html"
+  },
+  {
+    "city": "Seattle",
+    "headline": "These are the posters students carried at the March for Our Lives",
+    "links": "//www.cnn.com/2018/03/22/us/march-for-our-lives-posters-trnd/index.html"
+  },
+  {
+    "city": "Seattle",
+    "headline": "Helping America's mobile homeless",
+    "links": "//www.cnn.com/2018/03/16/us/police-officer-helps-family-living-in-car-btc-beyond-the-call/index.html"
+  },
+  {
+    "city": "Seattle",
+    "headline": "Anti-Semitic incidents surged nearly 60% in 2017",
+    "links": "//www.cnn.com/2018/02/28/us/applenews-antisemitic-incidents-surged-2017-adl/index.html"
+  },
+  {
+    "city": "Seattle",
+    "headline": "Anti-Semitic incidents surged nearly 60% in 2017",
+    "links": "//www.cnn.com/2018/02/28/us/antisemitic-incidents-2017-adl-report-trnd/index.html"
+  },
+  {
+    "city": "Seattle",
+    "headline": "Police search college in Washington state, find no evidence of gunfire",
+    "links": "//www.cnn.com/2018/02/16/us/washington-highline-college-lockdown/index.html"
+  },
+  {
+    "city": "Seattle",
+    "headline": "Seattle ICE attorney charged with stealing immigrants' identities",
+    "links": "//www.cnn.com/2018/02/14/us/seattle-ice-attorney-charged/index.html"
+  },
+  {
+    "city": "St. Louis",
+    "headline": "Sinclair TV host resigns after making vulgar comment about Parkland student David Hogg",
+    "links": "//www.cnn.com/2018/04/10/us/sinclair-commentator-resigns-jamie-allman-david-hogg/index.html"
+  },
+  {
+    "city": "St. Louis",
+    "headline": "Delta misroutes puppy on cross-country trip",
+    "links": "//www.cnn.com/2018/03/19/us/delta-misroutes-puppy/index.html"
+  },
+  {
+    "city": "St. Louis",
+    "headline": "United Airlines flight diverted after third pet incident in a week",
+    "links": "//www.cnn.com/2018/03/16/us/united-airlines-pet-wrong-plane/index.html"
+  },
+  {
+    "city": "St. Louis",
+    "headline": "5 things for March 15: Student walkout, President Trump, Toys 'R' Us",
+    "links": "//www.cnn.com/2018/03/15/us/five-things-march-15/index.html"
+  },
+  {
+    "city": "St. Louis",
+    "headline": "When tragedy struck, athletes stepped up for a Florida high school",
+    "links": "//www.cnn.com/2018/03/11/us/sports-honoring-parkland-shooting/index.html"
+  },
+  {
+    "city": "St. Louis",
+    "headline": "March Madness: These 24 Saturday games could impact Selection Sunday",
+    "links": "//www.cnn.com/2018/03/10/us/applenews-march-madness-24-games-to-watch-on-saturday/index.html"
+  },
+  {
+    "city": "St. Louis",
+    "headline": "Anti-Semitic incidents surged nearly 60% in 2017",
+    "links": "//www.cnn.com/2018/02/28/us/applenews-antisemitic-incidents-surged-2017-adl/index.html"
+  },
+  {
+    "city": "St. Louis",
+    "headline": "Anti-Semitic incidents surged nearly 60% in 2017",
+    "links": "//www.cnn.com/2018/02/28/us/antisemitic-incidents-2017-adl-report-trnd/index.html"
+  },
+  {
+    "city": "St. Louis",
+    "headline": "Who is NRA spokeswoman Dana Loesch?",
+    "links": "//www.cnn.com/2018/02/21/us/nra-dana-loesch-profile/index.html"
+  },
+  {
+    "city": "St. Louis",
+    "headline": "From Jaycee Dugard to Elizabeth Smart, victims of long-term captivity often rebound",
+    "links": "//www.cnn.com/2018/01/17/us/california-turpin-siblings-captive-other-abductions/index.html"
+  }
+]

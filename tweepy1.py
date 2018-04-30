@@ -195,7 +195,7 @@ def printOutput(city_dict, start_time):
 def twitterize():
     
     # Setting up statics
-    tweet_goal = 1
+    tweet_goal = 20
     limit_type = 'first_to_goal' # 'first_to_goal' or 'all_to_goal'
     start_time = time.clock()
     
