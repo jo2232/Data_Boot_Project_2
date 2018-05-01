@@ -1,4 +1,3 @@
-
 # Dependencies
 import json
 import time
@@ -6,10 +5,8 @@ import os
 import requests
 import twitter
 import numpy as np
-from flask import Flask, jsonify, render_template
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
-# Setting up Vader
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 analyzer = SentimentIntensityAnalyzer()
 
 # Setting Keys
@@ -77,8 +74,8 @@ def solveBox(bounding_box):
 
     # Small loop to append each coord to it's own list to sum
     for coord in bounding_box[0]:
-        coord_dict['lat'].append(coord[1] + (np.random.rand() - np.random.rand()))
-        coord_dict['lon'].append(coord[0] + (np.random.rand() - np.random.rand()))
+        coord_dict['lat'].append(coord[1] + (np.random.ranf() - np.random.ranf()))
+        coord_dict['lon'].append(coord[0] + (np.random.ranf() - np.random.ranf()))
 
     # Appending the sums to a return list
     coord_return.append(round(np.mean(coord_dict['lon']),6))
@@ -218,6 +215,8 @@ def twitterize():
     
     # Printing runtime
     printOutput(city_dict, start_time)
+
+    return(city_dict)
 
 
 
