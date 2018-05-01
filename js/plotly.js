@@ -25,6 +25,26 @@ function makeScatter(test) {
 
     var data = [trace3];
     console.log(data)
-    var layout = {};
+    var layout = {
+        plot_bgcolor: "#424242",
+        paper_bgcolor: "#424242",
+        font: {
+            size: 18,
+            color: '#000000'
+          },
+          xaxis: {
+            title: 'Number of Followers',
+            gridcolor: '#bdbdbd',
+            gridwidth: 2,
+            zerolinecolor: '#969696',
+          },
+          yaxis: {
+            title: 'Tweet Sentiment',
+            gridcolor: '#bdbdbd',
+            gridwidth: 1,
+            zerolinecolor: '#969696',
+          }
+    
+    };
     Plotly.newPlot('scatter', data, layout);
 }
